@@ -1,21 +1,6 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="RCTI+",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VIDIO",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="MIVO",A/N
 https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
 #EXTM3U
@@ -38,11 +23,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="inews" tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="VISION+",INEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="MOVIES",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -68,11 +49,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="metrotv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd02znv71MAM7QCROhNQZhZf1QWo2hVDx2lQ&usqp=CAU" group-title="VISION+",METROTV
 https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -98,11 +75,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="jtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyWE52HN7qYht9fhz0vcjLQVeuNtArEteTvQ&usqp=CAU" group-title="VISION+",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -143,11 +116,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMwgBktpOPL6jp4TIbsEwlvPTgLjpJSHgaQ&usqp=CAU" group-title="VISION+",IE
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
-https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -413,6 +382,8 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6mNphTNsKKcJroNZhJg_T_kr5ot0olFznTg&usqp=CAU" group-title="VISION+",ANIPLUS
 https://dukun.masuk.id/hiburan/aniplus.m3u8
+
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
