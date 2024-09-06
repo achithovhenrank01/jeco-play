@@ -178,7 +178,7 @@
             "channels": [
             
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ROCKENT",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/72287d1c\/3aef_r32.jpg",
                     "name": "Rock Entertainment",
@@ -186,7 +186,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "MUSICTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7295d2f2\/ca62_r32.jpg",
                     "name": "Music TV",
@@ -194,7 +194,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CELEBRITIESTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0de64cc\/3b1d_r32.jpg",
                     "name": "CELEBRITIES TV",
@@ -202,7 +202,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "VISIONPRIME",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/a09752e1\/c6ca_r32.jpg",
                     "name": "Vision Prime",
@@ -210,7 +210,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ENT",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/fc642b52\/ae2e_r32.jpg",
                     "name": "Entertainment",
@@ -218,7 +218,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "OKTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4f4a02c0\/c9b7_r32.jpg",
                     "name": "OK TV",
@@ -226,7 +226,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "AXN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1a8446\/733c_r32.jpg",
                     "name": "AXN",
@@ -234,7 +234,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ANIMAX",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7f3aed08\/01ac_r32.jpg",
                     "name": "Animax",
@@ -242,7 +242,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "KIX",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4e370d15\/3992_r32.jpg",
                     "name": "KIX",
@@ -250,7 +250,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TVN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/8226bb83\/185e_r32.jpg",
                     "name": "tvN",
@@ -258,7 +258,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ONE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/3ad70848\/b686_r32.jpg",
                     "name": "One",
@@ -266,7 +266,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "LIFETIME",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ff9ab40f\/566e_r32.jpg",
                     "name": "Lifetime",
@@ -274,7 +274,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "HITS",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/99887e47\/d88f_r32.jpg",
                     "name": "HITS",
@@ -282,7 +282,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TV5MONDE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/93861924\/4ebd_r32.jpg",
                     "name": "TV5 Monde",
@@ -290,7 +290,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "JIANGSU",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/bfd7b8a8\/c720_r32.jpg",
                     "name": "Jiangsu TV",
@@ -298,7 +298,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "HUNAN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c0f26f78\/2493_r32.jpg",
                     "name": "Hunan TV",
@@ -306,7 +306,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "DRAGON",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9ff84533\/fc54_r32.jpg",
                     "name": "Shanghai Dragon TV",
@@ -314,7 +314,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "XINGKONG",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/5c46e065\/dce2_r32.jpg",
                     "name": "Xing Kong TV",
@@ -322,7 +322,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ANHUI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/70f920ae\/6a22_r32.jpg",
                     "name": "Anhui TV",
@@ -922,6 +922,86 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "JIANGSU",
+            "drm_key": "ab3b56e3b5bd35ee40d1f18a8e2a73f0:1ae67b4eeeb450fd430e3540694abc6a",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "HUNAN",
+            "drm_key": "0e9df1ff194224dd922a4ee50a083ea8:1f822977efb4700dfef3aef29ce53d98",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "DRAGON",
+            "drm_key": "a5b643fdc1b2cb4684bd859f699dce2c:4605d2990f4b1d7c4049cdd83529f3a7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "XINGKONG",
+            "drm_key": "a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ANHUI",
+            "drm_key": "6935d1a7c21abca8907b1a7b63f2d2c9:1842c9b39c3558bb4c7dbb6e400561aa",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "VISIONPRIME",
+            "drm_key": "50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "LIFETIME",
+            "drm_key": "8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "AXN",
+            "drm_key": "c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "HITS",
+            "drm_key": "78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "KIX",
+            "drm_key": "fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ONE",
+            "drm_key": "742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ENT",
+            "drm_key": "e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "OKTV",
+            "drm_key": "57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ANIMAX",
+            "drm_key": "6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "MUSICTV",
+            "drm_key": "0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ROCKENT",
+            "drm_key": "57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7",
             "drm_type": "clearkey"
         },
         {
