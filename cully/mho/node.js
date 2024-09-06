@@ -335,7 +335,7 @@
             "name": "News",
             "channels": [
                 {
-                    "drm_id": "vision",
+                    "drm_id": "METROTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/17c7c1b0\/a32f_r32.jpg",
                     "name": "Metro TV",
@@ -343,7 +343,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "KOMPASTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/6830ce0e\/5940_r32.jpg",
                     "name": "Kompas TV",
@@ -351,7 +351,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TVONE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e9fade08\/706a_r32.jpg",
                     "name": "TV One",
@@ -359,7 +359,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "BTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/763ae675\/4ca7_r32.jpg",
                     "name": "BTV",
@@ -367,7 +367,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SINDO",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/1f476919\/6c87_r32.jpg",
                     "name": "SINDONEWS TV",
@@ -375,7 +375,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "IDX",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/19846b5e\/4aba_r32.jpg",
                     "name": "IDX Channel",
@@ -383,7 +383,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SEA",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7bdd87fc\/0cb7_r32.jpg",
                     "name": "SEA Today",
@@ -391,7 +391,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CNA",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f36bdbf0\/d7d8_r32.jpg",
                     "name": "Channel News Asia",
@@ -399,7 +399,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ALJAZEERA",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/de1c4e7e\/c134_r32.jpg",
                     "name": "Al Jazeera English",
@@ -407,7 +407,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "RT",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4462f88d\/6981_r32.jpg",
                     "name": "RT English",
@@ -415,7 +415,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "FRANCE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/feee5d98\/3c51_r32.jpg",
                     "name": "France 24",
@@ -423,7 +423,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "DW",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ec5ca17f\/9a41_r32.jpg",
                     "name": "DW",
@@ -431,7 +431,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TRT",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ab7f9e6a\/4023_r32.jpg",
                     "name": "TRT World",
@@ -439,7 +439,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CGTN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/87f1d571\/242b_r32.jpg",
                     "name": "CGTN",
@@ -447,7 +447,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "IDX",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/865d342f\/1627_r32.jpg",
                     "name": "For IDX",
