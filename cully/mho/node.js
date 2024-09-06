@@ -60,7 +60,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ANTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/14268442\/234d_r32.jpg",
                     "name": "ANTV",
@@ -76,7 +76,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TRANS7",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/18e2eeff\/59e0_r32.jpg",
                     "name": "Trans 7",
@@ -84,7 +84,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TVONE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/1950d43c\/de11_r32.jpg",
                     "name": "TV One",
@@ -92,7 +92,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "METROTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/733e4795\/4dfb_r32.jpg",
                     "name": "Metro TV",
@@ -100,7 +100,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "RTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c8369888\/3fdb_r32.jpg",
                     "name": "RTV",
@@ -108,7 +108,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "KOMPASTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4a7a3eac\/d2ce_r32.jpg",
                     "name": "Kompas TV",
@@ -116,7 +116,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TVRI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c57573a6\/f784_r32.jpg",
                     "name": "TVRI",
@@ -124,7 +124,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "JAKTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/75d80b16\/9ff4_r32.jpg",
                     "name": "Jak TV",
@@ -132,7 +132,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "JTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e658daa\/252e_r32.jpg",
                     "name": "JTV",
@@ -140,7 +140,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "BALITV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cda6a457\/7e41_r32.jpg",
                     "name": "Bali TV",
@@ -148,7 +148,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "DAAITV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ff1edb6e\/3741_r32.jpg",
                     "name": "DAAI TV",
@@ -156,7 +156,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "BANDUNGTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/d4154d1c\/d082_r32.jpg",
                     "name": "Bandung TV",
@@ -164,7 +164,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "NET",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
                     "name": "Net.",
@@ -918,10 +918,75 @@
         }
     ],
     "drm_licenses": [
-    
-    {
+      
+       {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "BANDUNGTV",
+            "drm_key": "a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "BALITV",
+            "drm_key": "c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "JAKTV",
+            "drm_key": "f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "JTV",
+            "drm_key": "10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "DAAITV",
+            "drm_key": "eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TVRI",
+            "drm_key": "ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "KOMPASTV",
+            "drm_key": "493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "NET",
+            "drm_key": "6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "RTV",
+            "drm_key": "30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "METROTV",
+            "drm_key": "4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TVONE",
+            "drm_key": "90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TRANS7",
+            "drm_key": "26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ANTV",
+            "drm_key": "4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf",
             "drm_type": "clearkey"
         },
         {
