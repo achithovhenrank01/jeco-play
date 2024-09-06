@@ -28,7 +28,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision1",
+                    "drm_id": "RCTI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
                     "name": "RCTI",
@@ -36,7 +36,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "GTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/79058031\/9f94_r32.jpg",
                     "name": "GTV",
@@ -52,7 +52,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "INEWS",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/3f803501\/998e_r32.jpg",
                     "name": "iNews ",
@@ -68,7 +68,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TRANSTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dea3544d\/0e5f_r32.jpg",
                     "name": "Trans TV",
@@ -920,6 +920,26 @@
     "drm_licenses": [
     
     {
+            "drm_id": "INEWS",
+            "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TRANSTV",
+            "drm_key": "334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "GTV",
+            "drm_key": "88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "RCTI",
+            "drm_key": "9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30",
+            "drm_type": "clearkey"
+        },
+        {
             "drm_id": "MNCTV",
             "drm_key": "828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc",
             "drm_type": "clearkey"
