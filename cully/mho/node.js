@@ -925,6 +925,21 @@
             "drm_type": "clearkey"
         },
         {
+            "drm_id": "TV5MONDE",
+            "drm_key": "1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CELEBRITIESTV",
+            "drm_key": "a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TVN",
+            "drm_key": "742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0",
+            "drm_type": "clearkey"
+        },
+        {
             "drm_id": "JIANGSU",
             "drm_key": "ab3b56e3b5bd35ee40d1f18a8e2a73f0:1ae67b4eeeb450fd430e3540694abc6a",
             "drm_type": "clearkey"
