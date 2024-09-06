@@ -925,6 +925,61 @@
             "drm_type": "clearkey"
         },
         {
+            "drm_id": "CGTN",
+            "drm_key": "725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CNA",
+            "drm_key": "e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "RT",
+            "drm_key": "ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ALJAZEERA",
+            "drm_key": "59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TRT",
+            "drm_key": "2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "FRANCE",
+            "drm_key": "2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "DW",
+            "drm_key": "4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "IDX",
+            "drm_key": "fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SEA",
+            "drm_key": "dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "BTV",
+            "drm_key": "d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SINDO",
+            "drm_key": "26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd",
+            "drm_type": "clearkey"
+        },
+        {
             "drm_id": "TV5MONDE",
             "drm_key": "1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694",
             "drm_type": "clearkey"
