@@ -522,7 +522,7 @@
             "name": "Kids",
             "channels": [
                 {
-                    "drm_id": "vision",
+                    "drm_id": "MYKIDZ",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/039c4e27\/adf0_r32.jpg",
                     "name": "My Kidz",
@@ -530,7 +530,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ZOOMOO",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/5671cc3e\/71d2_r32.jpg",
                     "name": "Zoomoo",
@@ -538,7 +538,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "DREAM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ca7804fa\/643a_r32.jpg",
                     "name": "Dreamworks",
@@ -546,7 +546,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "KIDSTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c156f892\/9b72_r32.jpg",
                     "name": "Kids TV",
@@ -554,7 +554,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "NICKJR",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/32fbd95a\/4106_r32.jpg",
                     "name": "Nick Jr.",
@@ -562,7 +562,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CBEEBIES",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/563e358a\/f92c_r32.jpg",
                     "name": "Cbeebies",
@@ -570,7 +570,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "NICK",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/8c2c21cc\/fa6a_r32.jpg",
                     "name": "Nick",
@@ -922,6 +922,41 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ZOOMOO",
+            "drm_key": "5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "DREAM",
+            "drm_key": "57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "NICK",
+            "drm_key": "785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "NICKJR",
+            "drm_key": "f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CBEEBIES",
+            "drm_key": "194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "KIDSTV",
+            "drm_key": "17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "MYKIDZ",
+            "drm_key": "a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d",
             "drm_type": "clearkey"
         },
         {
