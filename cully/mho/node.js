@@ -461,7 +461,7 @@
             "channels": [
             
                 {
-                    "drm_id": "vision",
+                    "drm_id": "OUTDOOR",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c3150d7b\/dba4_r32.jpg",
                     "name": "Outdoor Channel",
@@ -469,7 +469,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "LOVE",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b3d1c291\/1d54_r32.jpg",
                     "name": "Love Nature",
@@ -477,7 +477,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "NHK",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/90eb4454\/a528_r32.jpg",
                     "name": "NHK World Japan",
@@ -485,7 +485,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "BBC",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/df51ed9c\/5586_r32.jpg",
                     "name": "BBC Earth",
@@ -493,7 +493,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "HISTORY",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e3cb40f0\/5601_r32.jpg",
                     "name": "History",
@@ -501,7 +501,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CRIME",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4b3d8210\/eb4c_r32.jpg",
                     "name": "Crime Investigation",
@@ -509,7 +509,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CGTN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/bce8fc0f\/7f20_r32.jpg",
                     "name": "CGTN Documentary",
@@ -922,6 +922,31 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "BBC",
+            "drm_key": "62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "BBC",
+            "drm_key": "c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "OUTDOOR",
+            "drm_key": "05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "LOVE",
+            "drm_key": "c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CRIME",
+            "drm_key": "dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4",
             "drm_type": "clearkey"
         },
         {
