@@ -513,7 +513,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/bce8fc0f\/7f20_r32.jpg",
                     "name": "CGTN Documentary",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
+                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
             ]
