@@ -925,7 +925,12 @@
             "drm_type": "clearkey"
         },
         {
-            "drm_id": "BBC",
+            "drm_id": "HISTORY",
+            "drm_key": "2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "NHK",
             "drm_key": "62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a",
             "drm_type": "clearkey"
         },
