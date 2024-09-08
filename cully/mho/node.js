@@ -751,6 +751,14 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "drm_id": "cubmu",
+                    "referer": "https:\/\/www.cubmu.com",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiEQ5FpgXEuMtAlv7T-yU-OymRK0tKVLWLTMyuTSxakg_cI08zptpRP_waX5cELPppbrK35TnV4iyshLqGdfoKTS98H1N1Q2jfRcUbvHpoUqTGnszBdWXZDrrVwwF40MokUEJJQc3QVWFMvpofQFiwkC3rGlPBlmFGipe-5m3zqlQzO_rs7vjpFF1YGDzY\/s1280\/20240908_233209.jpg",
+                    "name": "Cinemax",
+                    "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/1\/4028c6856c3db2cc016cdbfc4a1934bf\/manifest.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "TVM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cfd38f8c\/81ea_r32.jpg",
