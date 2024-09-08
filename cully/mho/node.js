@@ -623,7 +623,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "CIN",
+                    "drm_id": "CINEMACHI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/bd4f56c1\/74f4_r32.jpg",
                     "name": "Cinemachi",
@@ -631,7 +631,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CINEMACHIKIDS",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dce7dab3\/e566_r32.jpg",
                     "name": "Cinemachi Kids",
@@ -639,7 +639,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CINEMACHI ACTION",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9ebf59d0\/a31c_r32.jpg",
                     "name": "Cinemachi Action",
@@ -647,7 +647,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CINEMACHIMAX",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/26a588c7\/e3f2_r32.jpg",
                     "name": "Cinemachi Max",
@@ -655,7 +655,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CINEMACHIEXTRA",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/eae4114e\/c5cc_r32.jpg",
                     "name": "Cinemachi Xtra",
@@ -671,7 +671,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "GALAXYPREMIUM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
@@ -679,7 +679,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "GALAXY",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
@@ -687,7 +687,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "IMC",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/bf3ec50a\/9c0f_r32.jpg",
                     "name": "IMC",
@@ -695,7 +695,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "THRILL",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/893bb6b5\/30f4_r32.jpg",
                     "name": "Thrill",
@@ -703,7 +703,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e09a0750\/2f2e_r32.jpg",
                     "name": "Celestial Movies ",
@@ -711,7 +711,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "CCM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cafe66c5\/bbf9_r32.jpg",
                     "name": "Celestial Classic Movie",
@@ -719,7 +719,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "ZBIOSKOP",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/6ecb9b54\/794c_r32.jpg",
                     "name": "Zee Bioskop",
@@ -727,7 +727,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "TVM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cfd38f8c\/81ea_r32.jpg",
                     "name": "tvN Movies",
@@ -735,7 +735,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "HITSM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/d5966d04\/9914_r32.jpg",
                     "name": "Hits Movies",
@@ -922,6 +922,91 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ZBIOSKOP",
+            "drm_key": "9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "IMC",
+            "drm_key": "1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CCM",
+            "drm_key": "12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "THRILL",
+            "drm_key": "06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "GALAXYPREMIUM",
+            "drm_key": "7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "GALAXY",
+            "drm_key": "e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "TVM",
+            "drm_key": "45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CM",
+            "drm_key": "13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "HITSM",
+            "drm_key": "5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CINEMACHIACTION",
+            "drm_key": "fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CINEMACHIMAX",
+            "drm_key": "6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CINEMACHIXTRA",
+            "drm_key": "b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CINEMACHIKIDS",
+            "drm_key": "ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CINEMACHI",
+            "drm_key": "eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "MFC",
+            "drm_key": "4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "MCA",
+            "drm_key": "4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "MCN",
+            "drm_key": "4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf",
             "drm_type": "clearkey"
         },
         {
