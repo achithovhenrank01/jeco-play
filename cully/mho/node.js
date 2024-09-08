@@ -720,7 +720,7 @@
                 },
                 {
                     "drm_id": "cubmu",
-                    "referer": "https:\/\/cdnjkt4.transvision.co.id",
+                    "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiyYAhJDOdlq4pXK6VJcgGmFbRlG100kluzkd415M74xApxH0m6URFwntwtpF8XshFGc4XHUgaam_TTSqSa18TO9rQ4k1-QcOeKbyU9dM34FO4Kzig3CphLNh4XFmZP_QTykQ3DcxRkIdBX9LtGOCNI2Q6M1LTgH8WcpbA7imULCWbnUvu0P6tX9I_qLms\/s1280\/20240908_225253.jpg",
                     "name": "hbo",
                     "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/3\/4028c6856b6088c3016b87d64b970b53\/manifest.mpd",
@@ -926,12 +926,12 @@
         },
         {
             "drm_id": "cubmu",
-            "drm_key": "https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv",
+            "drm_key": "https:\/\/cubum.iptvgo.workers.dev",
             "drm_type": "com.widevine.alpha"
         },
         {
             "drm_id": "vision",
-            "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=N2ExYWU2OWQtNjEzOS0zYzIzLWFlYzItOWIwN2ZjY2Y4MTM5",
+            "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=N2ExYWU2OWQtNjEzOS0zYzIzLWFlYzItOWIwN2ZjY2Y4MTM5",
             "drm_type": "com.widevine.alpha"
         },
         {
