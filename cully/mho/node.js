@@ -639,7 +639,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "CINEMACHI ACTION",
+                    "drm_id": "CINEMACHIACTION",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9ebf59d0\/a31c_r32.jpg",
                     "name": "Cinemachi Action",
