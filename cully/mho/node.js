@@ -804,6 +804,22 @@
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
                 {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjIbRYXVokoo3SQBER2SLYe2jHzBnQ4xgxlrGX0r8S5RcV6KZk80QJ-y5MGcsfpeBytsH7oIaDeLPewIoXgn_bZ7WNr7lwMD79Dyp3RQePap_U6lanMlbv613JOiAc94PyxVaqzwKbz2AxAqEwLstodFWZvsy75fnTPU0pvvpKcXJaf-7hnB5Orp9mBG_s\/s1280\/20240909_003204.jpg",
+                    "name": "Dazn 1 Es",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-037\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEitZts1FGsJiTkqlRKtWhC2Smcx_D9-kco5xWZ04_tYt2gjSV6OQYb1ruYKbHwq0YGQgj8iFQworgMliT5aJUIt6WbibdHcY8mpL7oqVQo0UO6vkE6wdQudySOBjQYBmDaunexmFlFhY9qMhS-H_r0bJk49blZkqI6fUChNh9dS2FOwTu6h0rE27_GxVnI\/s1280\/20240909_003230.jpg",
+                    "name": "Dazn 2 Es",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-038\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
