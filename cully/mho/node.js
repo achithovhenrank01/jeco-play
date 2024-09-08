@@ -719,6 +719,14 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "drm_id": "cubmu",
+                    "referer": "https:\/\/cdnjkt4.transvision.co.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiyYAhJDOdlq4pXK6VJcgGmFbRlG100kluzkd415M74xApxH0m6URFwntwtpF8XshFGc4XHUgaam_TTSqSa18TO9rQ4k1-QcOeKbyU9dM34FO4Kzig3CphLNh4XFmZP_QTykQ3DcxRkIdBX9LtGOCNI2Q6M1LTgH8WcpbA7imULCWbnUvu0P6tX9I_qLms\/s1280\/20240908_225253.jpg",
+                    "name": "hbo",
+                    "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/3\/4028c6856b6088c3016b87d64b970b53\/manifest.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "TVM",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cfd38f8c\/81ea_r32.jpg",
@@ -915,6 +923,11 @@
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
             "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "cubmu",
+            "drm_key": "https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv",
+            "drm_type": "com.widevine.alpha"
         },
         {
             "drm_id": "vision",
