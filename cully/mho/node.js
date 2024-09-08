@@ -779,6 +779,30 @@
         {
             "name": "Sport",
             "channels": [
+            {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjdO_EK2W4zMEfbuavDXDu2JwpHB_40-OU56tJRskkEYwxEUylPAAIJ4TiTQcfjrCS64BINiQQuVVZE-yUoj0oA62ucXWNmAkAxfJ-Q1EZ-VPpQ9BOyzbbN4Y7uJX3r3R2Zypt3Euy1JX_SwW0PjL8pJqtKmS_0dfNxiwGVc0T8UIHyESbwyHwgBDplKEE\/s1280\/20240909_002010.jpg",
+                    "name": "Play Sport 1",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-051\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiJprfdSPZ1tbLBxv1dYjBJp5UOQ4pyMtx2_jIVOnu6_FpnTSgeEzSskDPElSImHVMUhf6lk7xQcnPaoMDdJO3ps-LzkGDPP-Fav86axxFJe1Knhwv1MUlmKqntYNAP54M0G-lWXaDtOvNXUQTQdoB_XCCXAWPnke4jemzeRk7Am4MGa-iT6JE-vcWXxpI\/s1280\/20240909_002117.jpg",
+                    "name": "Play Sport 2",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-052\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDyw4wAblsIDINS2K1Uw7BJdaJczr-RnikfZY0jRBN0u3pQ48dFClgCjkhh0K0hpAiAkp1w7FXowBrGjdpdzY3Nj0rITfK_dZZe3ZIYLl_6brJVI0BVkPPQ50RWClFngIKruPrlOFCRNjKYrbT-gjgiFdmz7yILuNSYsVOPAihk4DoURK_JR4CUCPLFk\/s1280\/20240909_002146.jpg",
+                    "name": "Play Sport 3",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-053\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
                 {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
@@ -954,6 +978,11 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "dazn",
+            "drm_key": "8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769",
             "drm_type": "clearkey"
         },
         {
