@@ -740,7 +740,7 @@
             "name": "Sport",
             "channels": [
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
                     "name": "SPOTV",
@@ -748,7 +748,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SPOTV2",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1465ab\/79a6_r32.jpg",
                     "name": "SPOTV 2",
@@ -756,7 +756,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SPORTSTARS",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c350a134\/2fc0_r32.jpg",
                     "name": "SPORTSTARS",
@@ -764,7 +764,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SPORTSTARS2",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
                     "name": "SPORTSTARS 2",
@@ -772,7 +772,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },         
                 {
-                    "drm_id": "vision",
+                    "drm_id": "SOCCERCHANNEL",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/aed3fc77\/ddf7_r32.jpg",
                     "name": "Soccer Channel",
@@ -914,6 +914,31 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SPOTV2",
+            "drm_key": "57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SPOTV",
+            "drm_key": "57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SPORTSTARS2",
+            "drm_key": "45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SPORTSTARS",
+            "drm_key": "531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "SOCCERCHANNEL",
+            "drm_key": "4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366",
             "drm_type": "clearkey"
         },
         {
