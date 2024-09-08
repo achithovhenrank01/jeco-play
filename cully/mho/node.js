@@ -836,6 +836,54 @@
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
                 {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjJS1OpZ_NCM27s3-1FkQ4O2VwR4xKeF6DpHW6rWEU_sEEB4UgiZ2CMlYzzfrgE2x7VOqMRB0OCbzTWkEJf8ItSBxigxY0pW3fDUyX2yCFmcheGhFcGQbzpEBtdav0mFe75Kw5id5z3z2zVqQZVeCQSt4U3T0mEIqu91PxPTUjPwq6S_EjcVCxOIWc8wdI\/s1280\/20240909_004803.jpg",
+                    "name": "Dazn 1 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-054\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj7lJh7wPcL8DQ_Cg9Cvi6fU2Q2vle0tTuPkYLphH74BApnkBxV7lvWc2yHe1s2RkvUkeHK_VXg4oA0ocsl6ffFcHD54ZV7FvKJJ8sB_Pe18-ROwgxa-T_iA6bPK_oYm-98tARhFDB7X5CXrs1-Zf1UAUeYtUVctOW20UlE7WxL_BHprtoqSqfhRHbe8nI\/s1280\/20240909_004848.jpg",
+                    "name": "Dazn 2 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-055\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhOly-PBOC_QavgijGzug_mKah7Lyma7MX9xEWLAYB7bDa2mJacxFOQZiEEHr1PLyQ6ZzdLHZM0hcK66qH28aFh1n-tP96aWgyQhcbO6ymBtwrRMOcUkPqpzzKVTwyVhyphenhyphenYGGZjw99gWr2GymUTxaNwQX2q0LdPE2ZO1D_Z0CgZubQhQUc3w8dces1DUvUc\/s1280\/20240909_004921.jpg",
+                    "name": "Dazn 3 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-056\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi47XH6pnboKhYopENe7YodrsTA2rdyipPUwud0xZVvT-iyyDKn6oplpi2Ml_WT23pRKWoG9vNEOMEpTwlPzu2KSlOh88c0_irrbx5ElySzaMvsGxm69OHN1fsHnLHbwD3i-XL-GUVRXWBsL0tK8_buWKEjartrZ1cQIlRYrNfzwaQJXNX1gTja-KNqlbs\/s1280\/20240909_004945.jpg",
+                    "name": "Dazn 4 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-057\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi77RM2U64lGSKxvIMMZhn53NV03pZpryxEtp77YGvd62SKkDzFiugzWym9Bpj0HsMikyq86Dtz4kTnNtVEnVlcKtzOaeAulRutrP4dcSluql2TSyy0iGo6Z3goRIBJMglkfNtoCJN9n-322Xsl50R8fnT35Kg3lr-sYtgOfgTsDERsVBEKwKbpUZXdR2k\/s1280\/20240909_005216.jpg",
+                    "name": "Dazn 5 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-058\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgiMJ0nUbq2qEhK5d5Inx7pANP_WlU1FLR_SHfzhkdOXixh62Mm5CbIpvEGmIO4NXEfDmhZnetoq8G0OJIH0OsaOel32WDUNqfPN6WHqrZM5zGzqJ5P6Cy0KcuN0m3_YAnFmYjl819bqr7w8CIcsj___7LWmNtneDh0MitLI_D1-g_jpbKOknHbnN-EOVg\/s1280\/20240909_005227.jpg",
+                    "name": "Dazn 6 Eleven",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-059\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
