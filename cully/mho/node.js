@@ -722,7 +722,7 @@
                     "drm_id": "cubmu",
                     "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiyYAhJDOdlq4pXK6VJcgGmFbRlG100kluzkd415M74xApxH0m6URFwntwtpF8XshFGc4XHUgaam_TTSqSa18TO9rQ4k1-QcOeKbyU9dM34FO4Kzig3CphLNh4XFmZP_QTykQ3DcxRkIdBX9LtGOCNI2Q6M1LTgH8WcpbA7imULCWbnUvu0P6tX9I_qLms\/s1280\/20240908_225253.jpg",
-                    "name": "hbo",
+                    "name": "Hbo",
                     "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/3\/4028c6856b6088c3016b87d64b970b53\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -730,7 +730,7 @@
                     "drm_id": "cubmu",
                     "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhgypBaG-yUF0Yic0Xw-6cu1gqrLOrhez5rpUe2AMQPqQ9mtr76qTugKQQftxFMTjYoZ2QY_DI_QgWZ19WVnXKBlUlRFo_RQnPhTsMU-l60oUkEnklebry58mDfsbZZPpRueCyLyDTTrJ5FJ2MrPgAzCF0S0yCPEKSGCa9PnfqCHxCVEsEde0QWsovnAHI\/s1280\/20240908_225438.jpg",
-                    "name": "hbo",
+                    "name": "Hbo Signature",
                     "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/3\/4028c6856c3db2cc016d0552e0ca37a2\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -738,7 +738,7 @@
                     "drm_id": "cubmu",
                     "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com/img\/b\/R29vZ2xl\/AVvXsEj_DJX8MlUv4cQeQPeYgGSia41JS8UybaVjIuDG2-fDUHK_qIpMLMxWCGBhNjBiQO4-x7YPBm7IpQfflZ5bENusGijLYjMxrh2mgrfkmxPtgp2fHs27TLPgOlzMe9SXObqziVG24NWM0OPoIHulHi99WCkN3AngTXS-zk1tP3Rr08iw2fAKBJ5zRm9mOVU\/s1280\/20240908_225340.jpg",
-                    "name": "hbo",
+                    "name": "Hbo Hits",
                     "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/4\/4028c6856c3db2cc016d054fbf67379f\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -746,7 +746,7 @@
                     "drm_id": "cubmu",
                     "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh9othrguB2kjw_zAA1168J0KzudrE93VEGXWF5XEwMXxNHYkDqMQDp3WByvLYH_5ljWsBqH-3EPE-vXCAz1gviRBB09XTyZA0nzpbcZpar7XE00H_guHefO3YoI3kQHr23Qok-8Iu6-dERIXY3_uLpiYerngmgfBT4D9hIdQpcD8RdoEindPqypoFetCw\/s1280\/20240908_225550.jpg",
-                    "name": "hbo",
+                    "name": "Hbo Family",
                     "stream_url": "https:\/\/cdnjkt4.transvision.co.id:1000\/live\/master\/4\/4028c6856c3db2cc016d055927fe37a4\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
