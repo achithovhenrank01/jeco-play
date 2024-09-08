@@ -655,19 +655,11 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "CINEMACHIEXTRA",
+                    "drm_id": "CINEMACHIXTRA",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/eae4114e\/c5cc_r32.jpg",
                     "name": "Cinemachi Xtra",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Cinemachi-Xtra-HD\/sa_dash_vmx\/Cinemachi-Xtra-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "vision",
-                    "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/d3144d26\/6ba4_r32.jpg",
-                    "name": "Paramount Network",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Paramount-HD\/sa_dash_vmx\/Paramount-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -922,6 +914,11 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "ROCKACTION",
+            "drm_key": "b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc",
             "drm_type": "clearkey"
         },
         {
