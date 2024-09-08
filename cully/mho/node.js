@@ -801,7 +801,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "MUSICTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/348a2140\/0638_r32.jpg",
                     "name": "Music TV",
@@ -915,6 +915,11 @@
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
             "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "vision",
+            "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=N2ExYWU2OWQtNjEzOS0zYzIzLWFlYzItOWIwN2ZjY2Y4MTM5",
+            "drm_type": "com.widevine.alpha"
         },
         {
             "drm_id": "SPOTV2",
