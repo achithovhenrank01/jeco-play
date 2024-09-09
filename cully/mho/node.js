@@ -1076,6 +1076,35 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
             ]
+        },
+        {
+        "name": "Malaysia",
+            "channels": [
+                {
+                    "drm_id": "Awesome",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e23a351e\/790d_r32.jpg",
+                    "name": "Awesome",
+                    "stream_url": "https:\/\/1.yurend.xyz\/dash-wv\/linear\/211/default_primary.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "Astroprima",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dbf6bf70\/42d8_r32.jpg",
+                    "name": "Astro Prima",
+                    "stream_url": "https:\/\/1.yurend.xyz\/dash-wv\/linear\/1000\/default_primary.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "Astrooasis",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/a90f8ccb\/6a35_r32.jpg",
+                    "name": "Astro Oasis",
+                    "stream_url": "https:\/\/quiet-rain-1d8f.wkwkw.workers.dev\/linearjitp-playback.astro.com.my\/dash-wv\/linear\/2505\/default_ott.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                }
+            ]
         }
     ],
     "drm_licenses": [
@@ -1083,6 +1112,21 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "Astrooasis",
+            "drm_key": "https:\/\/ck-dash-mpd.astradamy.com\/dash-ck\/linear\/2505",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "Astroprima",
+            "drm_key": "https:\/\/ck-dash-mpd.astradamy.com\/dash-ck\/linear\/1000",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "Awesome",
+            "drm_key": "https:\/\/ck-dash-mpd.astradamy.com\/dash-ck\/linear/211",
             "drm_type": "clearkey"
         },
         {
