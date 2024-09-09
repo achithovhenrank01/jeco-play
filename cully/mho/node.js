@@ -12,8 +12,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "",
-                    "referer": "https:\/\/www.indihometv.com",
+                   
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh3a59j4bHn_fH1Jt5LmmxUPrRgiqfSCOQzrDbbl6lpBlP5SWDOY5ozNT7lLeRReq3rN3oP67Eh28MnUhm95AQ4kA0pvPyRIyfpx6FJAXfYhq2KpBgHfiLgcaAp10cJidz9ej7-gUTDjfbX8gUZWRtVJpY-Hqjyw5kXZgi4zKygQY-X8TLlWgBfRvh5dmA\/s1280\/20240909_231650.jpg",
                     "name": "Citra Drama",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/cdrama\/index.m3u8",
