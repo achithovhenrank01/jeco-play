@@ -1075,7 +1075,6 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
-            }
             ]
         }
     ],
