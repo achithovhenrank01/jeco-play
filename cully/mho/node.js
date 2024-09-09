@@ -1082,7 +1082,7 @@
             "channels": [
                 {
                     "drm_id": "",
-                    "referer": "https:\/\/www.visionplus.id",
+                    "referer": "",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e23a351e\/790d_r32.jpg",
                     "name": "Tv1",
                     "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv1\/manifest.mpd",
@@ -1090,7 +1090,7 @@
                 },
                 {
                     "drm_id": "",
-                    "referer": "https:\/\/www.visionplus.id",
+                    "referer": "",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dbf6bf70\/42d8_r32.jpg",
                     "name": "Tv2",
                     "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv2\/manifest.mpd",
@@ -1098,7 +1098,7 @@
                 },
                 {
                     "drm_id": "",
-                    "referer": "https:\/\/www.visionplus.id",
+                    "referer": "",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/a90f8ccb\/6a35_r32.jpg",
                     "name": "Tv3",
                     "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/2dd2b7cd-1b34-4871-b669-57b5c9beca23\/cmaf.isml\/.m3u8",
