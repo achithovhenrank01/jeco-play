@@ -1075,35 +1075,7 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
-            ]
-        },
-        {
-        "name": "Malaysia",
-            "channels": [
-                {
-                    "drm_id": "",
-                    "referer": "",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/e23a351e\/790d_r32.jpg",
-                    "name": "Tv1",
-                    "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv1\/manifest.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "",
-                    "referer": "",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dbf6bf70\/42d8_r32.jpg",
-                    "name": "Tv2",
-                    "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv2\/manifest.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "",
-                    "referer": "",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/a90f8ccb\/6a35_r32.jpg",
-                    "name": "Tv3",
-                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/2dd2b7cd-1b34-4871-b669-57b5c9beca23\/cmaf.isml\/.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                }
+            }
             ]
         }
     ],
@@ -1587,3 +1559,9 @@
                
     ]
 }
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://1.bp.blogspot.com/-gqE80UqUOfk/YJZyaL9VUwI/AAAAAAAAEyc/XuL4bCragCw7Tv21MljHT8-Q4R312DcwQCLcBGAsYHQ/s720/tv1-p%2B.png",TV1 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://1.bp.blogspot.com/-nOyvZBs2M0M/YJZybbH0_II/AAAAAAAAEyg/By_ImTa9J-IYl7HO2Gao7tBs7lX_kKxKwCLcBGAsYHQ/s720/tv2-p.png",TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+ 
