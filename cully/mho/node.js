@@ -749,6 +749,14 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    
+                    "referer": "https:\/\/keralamaxtv.com\/sliv\/play.php?id=785",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh4SGPw-VlpgwYAeBDwDuBQtE0g3lWzsnMdJ_Rq64St-uYybQOkQgHcCL06BoUgjWbyPA-Gp_F4JMTlQZVdm4Tz2EKJI_tD-mWOmohx_IGW3DN2VLcxMJWmLLJb4Eq-GFerk-wTDd7jhB1IENE3TMXbTYtkpwlihxBTQtTa8JeMTgJZLmAKMom9Lvh9o4w\/s1280\/20240910_000900.jpg",
+                    "name": "Sony Pix",
+                    "stream_url": "https:\/\/keralamaxtv.com\/sliv\/stream.php?id=785",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "cubmu",
                     "referer": "https:\/\/www.cubmu.com",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiyYAhJDOdlq4pXK6VJcgGmFbRlG100kluzkd415M74xApxH0m6URFwntwtpF8XshFGc4XHUgaam_TTSqSa18TO9rQ4k1-QcOeKbyU9dM34FO4Kzig3CphLNh4XFmZP_QTykQ3DcxRkIdBX9LtGOCNI2Q6M1LTgH8WcpbA7imULCWbnUvu0P6tX9I_qLms\/s1280\/20240908_225253.jpg",
