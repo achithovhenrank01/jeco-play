@@ -829,10 +829,10 @@
                 },
                 {     
                     "referer": "https://keralamaxtv.com/sliv/play.php?id=785",
+                    "user_agent": "ExoPlayerLib/2.13.2",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh4SGPw-VlpgwYAeBDwDuBQtE0g3lWzsnMdJ_Rq64St-uYybQOkQgHcCL06BoUgjWbyPA-Gp_F4JMTlQZVdm4Tz2EKJI_tD-mWOmohx_IGW3DN2VLcxMJWmLLJb4Eq-GFerk-wTDd7jhB1IENE3TMXbTYtkpwlihxBTQtTa8JeMTgJZLmAKMom9Lvh9o4w\/s1280\/20240910_000900.jpg",
                     "name": "Sony Pix",
-                    "stream_url": "https://keralamaxtv.com/sliv/stream.php?id=785",
-                    "user_agent": "ExoPlayerLib/2.13.2"
+                    "stream_url": "https://keralamaxtv.com/sliv/stream.php?id=785"                 
                 },
                 {                 
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjpFwXXvDgMM-4jTVsRnbUfio3YdIoXfJ-qDA5OwB33HPTTgF0_oBi83un6ysEB-6VQthlRk96oUJMzOTsPmFC2DCiEz_kcWW34Kf2Z_7QXctF8lQtFgdQw9Dwzqc51UQzOmMMlmWDzikCfddqbwTDLw8rt3bkRnne4Ab9g6GhXIoYtQR22RgIzyeIyBVM\/s1280\/20240910_002303.jpg",
