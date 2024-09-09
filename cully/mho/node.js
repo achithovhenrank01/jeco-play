@@ -780,11 +780,11 @@
             "name": "Sport",
             "channels": [
             {
-                    "drm_id": "",
-                    "referer": "https:\/\/nowsports.in\/sliv\/play.php?id=7541236",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
-                    "name": "Sony Sports 1",
-                    "stream_url": "https:\/\/nowsports.in\/sliv\/stream.php?id=7541236",
+                    "drm_id": "go3sp1",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgks1LG8S3WQarCFaV6t6UjuG6T67JI3GObmVKIOMEX8b-y0k-Nqg0aW_XajfgcFOwxIT8W5DW4DFfWqG__exTOJjZGFtSi3TetoXavUO_A6rkAtkb0FQ9EzMKVlhcPzA22w9O8rnj-b-8xwaQhyaQXMcFxdD01tNsI9LQvyvQ-ar0jWxgc9mrE19pEG30\/s1280\/20240909_100746.jpg",
+                    "name": "Go3 Sport 1",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
             {
@@ -1067,6 +1067,11 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp1",
+            "drm_key": "610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5",
             "drm_type": "clearkey"
         },
         {
