@@ -821,6 +821,13 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
+                {
+                    
+                    "referer": "https:\/\/keralamaxtv.com\/sliv\/play.php?id=785",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/6ecb9b54\/794c_r32.jpg",
+                    "stream_url": "https:\/\/keralamaxtv.com\/sliv\/stream.php?id=785",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {                 
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDYWkz172_8GkCcmkhAW7YPfQPVJu3qsaGW5yxLZdSevcIM8NZqDmvFQrDw4bVoAEzLTDHgiqzc5hpuHsY7wpWPFVXHpaFpb301VtRiHlehEKvR49DoL-xn8mSnW9SmMVlLDS5tjL7JlsDZUUsfKckfWjEu0E2cjB2fbnnitPi-rB6V3wVAdnMnkzX1Jc\/s1280\/20240910_001842.jpg",
                     "name": "Flik",
