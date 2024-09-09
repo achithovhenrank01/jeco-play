@@ -780,6 +780,14 @@
             "name": "Sport",
             "channels": [
             {
+                    "drm_id": "",
+                    "referer": "https:\/\/nowsports.in\/sliv\/play.php?id=7541236",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
+                    "name": "Sony Sports 1",
+                    "stream_url": "https:\/\/nowsports.in\/sliv\/stream.php?id=7541236",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+            {
                     "drm_id": "dazn",
                     "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjdO_EK2W4zMEfbuavDXDu2JwpHB_40-OU56tJRskkEYwxEUylPAAIJ4TiTQcfjrCS64BINiQQuVVZE-yUoj0oA62ucXWNmAkAxfJ-Q1EZ-VPpQ9BOyzbbN4Y7uJX3r3R2Zypt3Euy1JX_SwW0PjL8pJqtKmS_0dfNxiwGVc0T8UIHyESbwyHwgBDplKEE\/s1280\/20240909_002010.jpg",
@@ -922,15 +930,8 @@
                     "name": "Soccer Channel",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "",
-                    "referer": "https:\/\/nowsports.in\/sliv\/play.php?id=7541236",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
-                    "name": "Sony Sports 1",
-                    "stream_url": "https:\/\/nowsports.in\/sliv\/stream.php?id=7541236",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
+                
             ]
         },
         {
