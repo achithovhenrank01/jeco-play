@@ -3,6 +3,12 @@
             {
             "name": "National Tv",
             "channels": [
+            {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
+                    "name": "Tv 1",
+                    "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv1\/manifest.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                {
                     "drm_id": "moji",
                     "referer": "https:\/\/www.visionplus.id",
