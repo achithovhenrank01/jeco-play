@@ -780,6 +780,22 @@
             "name": "Sport",
             "channels": [
             {
+                    "drm_id": "go3sp3",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY3cLP-mrVvtaIzEzT4SBIrAEwklNnvrVzWdAq3EY_A7y3fTxg7aoS4Wufa-jlq3s_34q_aeP0ZsJrhDKqpBfRz64XfCIL3wDC8b92gisjf8eP73f-kW_M3Am1ipGSjKF-R3GIIpEjMaP80-LkiLQKqyrvQg8ufOT3N37TV_EtFGhnO5_MX4HcBuCekP4\/s1280\/20240909_102800.jpg",
+                    "name": "Go3 Sport 3",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport3_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport3_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+            {
+                    "drm_id": "go3sp2",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhvsg29b-kUU0-l48qf_6tFvxdOAV8jITpTnYaKSXmnu-BnT2iFl3jALiL_xYcPqt_FjasF1W3qMIoVa5Ioqj-7CXnZiEFYslkgIMw6p5z5dYJ3IoNLKNPxyeNZGKi89bNbDINi1pqV5IDaHf7eYsMNJ_IML2yhASaeAQS8VLritm1qcqxQvO3KTctOkfA\/s1280\/20240909_102305.jpg",
+                    "name": "Go3 Sport 2",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport2_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport2_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+            {
                     "drm_id": "go3sp1",
                     "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgks1LG8S3WQarCFaV6t6UjuG6T67JI3GObmVKIOMEX8b-y0k-Nqg0aW_XajfgcFOwxIT8W5DW4DFfWqG__exTOJjZGFtSi3TetoXavUO_A6rkAtkb0FQ9EzMKVlhcPzA22w9O8rnj-b-8xwaQhyaQXMcFxdD01tNsI9LQvyvQ-ar0jWxgc9mrE19pEG30\/s1280\/20240909_100746.jpg",
@@ -1067,6 +1083,16 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp3",
+            "drm_key": "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp2",
+            "drm_key": "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615",
             "drm_type": "clearkey"
         },
         {
