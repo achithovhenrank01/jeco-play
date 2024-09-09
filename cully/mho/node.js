@@ -28,6 +28,24 @@
                     "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv6\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjI6uLTxfgXqsDz9CgC_gEBFC6sxZgfp_9-_q5McgPwAhOsdr_gQanb6Rz7xPF1kxKVgwCkUV85sN6QLV6qU4k7uybNi3qMt1cIcMF8G33ewoOTWp0_jIQy2eXeN-qz2mr2zVszaJLeab7ZSF_0tmSd7_k0XjGzjhqk40OWzFc8ftbaElKko9jlQ_3cC9g\/s1280\/20240910_005041.jpg",
+                    "name": "Tv 9",
+                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/2020783a-0303-401a-9c92-b7c3c9108c0b\/cmaf.isml\/.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEileQrNHVE7L9z4jmVzUtaD3ch15HEOnqTfcXC1gQV9g9odB0aSfZX_d9kgHzY5IQ8yS42w-nFDXVoRDopCseW-IqbrZBBEx15wwQwUtD_r7H-i5ndv5LJjylP4cHYUOy3yI5tl357RTNkwjFgKuFLlh4FWmdHCe3q0_IVNbAFmTo801J0Wr8wZoBIHDlA\/s1280\/20240910_005354.jpg",
+                    "name": "Okey",
+                    "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:okey\/manifest.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgjzoa540bCue6Vt-YG3G4-ZCTccaXblK_18fBq1Os8C_1ojhAXSwniKKBvhVpcAPpwMCdodPM1Ma0G8oekqgnd_1fktXU-kPRuEfc7-00zHeImlpH7K44Ll1Z-OaLOqnrcCraE0mY1A-qt4wzUAZAuYGedZpLqikY-S6yklD0AaDusb_c379M-oD_1LkQ\/s1280\/20240910_005706.jpg",
+                    "name": "Didik Tv",
+                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/0e27ef78-4cc9-4c62-bec9-5c946c9e7354\/cmaf.isml\/.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                {
                     "drm_id": "moji",
                     "referer": "https:\/\/www.visionplus.id",
