@@ -181,10 +181,11 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c8369888\/3fdb_r32.jpg",
                     "name": "Rtv",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/rtv\/index.m3u8?c",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "KOMPASTV",
@@ -251,16 +252,18 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
                     "name": "Net.",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/net\/index.m3u8?c",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjVq5HDH8POEHXH0IIJJ-Us-wc_S534cLVxWU_R_M6WR6ZTj0YPM3gWguwm0q9wkOuWFtsgicA9CPu7OBU8TEOqgYAeca4hLxie21FAJZ1BGtVDcPMZlm8NqnyAxJIO3-akeibycwa01a8a1NRKTsXFmoOB5sPjCzdMZ21wzyl0Ur3DeODzeOGbm-5vjyA\/s1280\/20240910_015539.jpg",
                     "name": "Mentari",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 }
             ]
         },
@@ -682,16 +685,18 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "MCN",
@@ -821,17 +826,19 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-                {                 
+                {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDYWkz172_8GkCcmkhAW7YPfQPVJu3qsaGW5yxLZdSevcIM8NZqDmvFQrDw4bVoAEzLTDHgiqzc5hpuHsY7wpWPFVXHpaFpb301VtRiHlehEKvR49DoL-xn8mSnW9SmMVlLDS5tjL7JlsDZUUsfKckfWjEu0E2cjB2fbnnitPi-rB6V3wVAdnMnkzX1Jc\/s1280\/20240910_001842.jpg",
                     "name": "Flik",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
-                {                 
+                {
+                	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjpFwXXvDgMM-4jTVsRnbUfio3YdIoXfJ-qDA5OwB33HPTTgF0_oBi83un6ysEB-6VQthlRk96oUJMzOTsPmFC2DCiEz_kcWW34Kf2Z_7QXctF8lQtFgdQw9Dwzqc51UQzOmMMlmWDzikCfddqbwTDLw8rt3bkRnne4Ab9g6GhXIoYtQR22RgIzyeIyBVM\/s1280\/20240910_002303.jpg",
                     "name": "Bioskop Indonesia",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "cubmu",
