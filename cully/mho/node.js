@@ -664,6 +664,18 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
+                    "name": "Galaxy Premium",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
+                    "name": "Galaxy",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "MCN",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/63d8f609\/a932_r32.jpg",
