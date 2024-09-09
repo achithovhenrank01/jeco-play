@@ -59,14 +59,14 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEicJfWSbP_0Ei04ps-EOl2xA2P2nNUpZVJ2V1qCriFUzg63CVNf1YDHIIMf6PxWtu_euSPSInvQ0gTezMYNZrqAXkH58hkQJKcTq4lCW1u6WiJvQENtgraWigDDOtcrP_IR6XGvWoZhwAuhGIhzoBZCUdKrcgtnHaHu2g_FHvtYDQMzri3HbUN1RL4M9Bk\/s1280\/20240910_000055.jpg",
                     "name": "Citra Dangdut",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/citradangdut\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                    
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh3a59j4bHn_fH1Jt5LmmxUPrRgiqfSCOQzrDbbl6lpBlP5SWDOY5ozNT7lLeRReq3rN3oP67Eh28MnUhm95AQ4kA0pvPyRIyfpx6FJAXfYhq2KpBgHfiLgcaAp10cJidz9ej7-gUTDjfbX8gUZWRtVJpY-Hqjyw5kXZgi4zKygQY-X8TLlWgBfRvh5dmA\/s1280\/20240909_231650.jpg",
                     "name": "Citra Drama",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/cdrama\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "CitraBioskop",
