@@ -264,7 +264,7 @@
                     "name": "Mentari",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                }
+                },
                 {
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
