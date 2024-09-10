@@ -1098,8 +1098,23 @@
                     "name": "Soccer Channel",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "PLtv1",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiZP-2fr0SnIsP1WCBaLjtgasNSWCe4bV8R1kq-tkdXjK0yBBH-qsJ95Sug_NYRIpiDZGQs_DWVP3VBAV-zyXDs2jWAg3Mo4h5trR7_YGj_R-SXKYI0uCalrRHXH3TL6d1gusN77LPlgDChLtOONih6kfgNF1BE-RLCgmjdC88guWhFC0h1doAq_iVt59g\/s1280\/20240910_223944.jpg",
+                    "name": "Premier League Tv",
+                    "stream_url": "https:\/\/fsly.stream.peacocktv.com\/Content\/CMAF_CTR-4s\/Live\/channel(vc1021n07j)\/master.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "PLtv2",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img/b\/R29vZ2xl\/AVvXsEiZP-2fr0SnIsP1WCBaLjtgasNSWCe4bV8R1kq-tkdXjK0yBBH-qsJ95Sug_NYRIpiDZGQs_DWVP3VBAV-zyXDs2jWAg3Mo4h5trR7_YGj_R-SXKYI0uCalrRHXH3TL6d1gusN77LPlgDChLtOONih6kfgNF1BE-RLCgmjdC88guWhFC0h1doAq_iVt59g\/s1280\/20240910_223944.jpg",
+                    "name": "Premier League Tv2",
+                    "stream_url": "https:\/\/webtvstream.bhtelecom.ba\/hls6\/premier_league.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
-                
             ]
         },
         {
@@ -1237,10 +1252,20 @@
         }
     ],
     "drm_licenses": [
-      
+   
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "PLtv1",
+            "drm_key": "002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "PLtv2",
+            "drm_key": "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d",
             "drm_type": "clearkey"
         },
         {
