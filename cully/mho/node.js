@@ -922,6 +922,12 @@
                     "name": "Kplus",
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/kplus\/manifest_wuseetv.mpd",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                },
+                {                	
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh6xy7qsbMAGLCCZ4zfZlIL3jnkAtXD4vtrV3D9Dw16LPyxsnmA_p1OHPf3x4juYWMRS21TxsLmvEygnU12fpdwJcopYm-CbAHJ2NtnhWP8z3IrXSikTdTD2tEZhMw63xHf4IZQUT0_eejQQaSpMn1Vd6BKlO4hWBy0tdkz9tRZjsJFai5U7PhKGGTEBvA\/s1280\/20240911_034403.jpg",
+                    "name": "Tv Asahi",
+                    "stream_url": "http:\/\/cdns.jp-primehome.com:8000\/zhongying\/live\/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 }
             ]
         },
