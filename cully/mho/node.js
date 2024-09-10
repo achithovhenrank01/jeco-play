@@ -1190,6 +1190,12 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TVMuhammadiyahnow\/sa_dash_vmx\/TVMuhammadiyahnow.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
+                {                
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgA5Qz7fJOcS7dHm7qP3S9635ZO4a3Pd1gj7lBaivPHngF7Baco7p1U4N6GmihQUqbt4SuqCbbrEim208wJ0njlS6tYNrgctg6JysUt7HBbScFgJF1rXdArXYWnUug1QzQuonZMZAFLGZpmEb8-Vp5ZM8mJUbS3WiG-acakVbr459aAUyXaJkQg1xb9gUQ\/s1280\/20240910_192025.jpg",
+                    "name": "Muitv",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/muitv\/manifest_wuseetv.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
