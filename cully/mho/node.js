@@ -553,6 +553,22 @@
         {
             "name": "Knowledge",
             "channels": [
+            {
+                    
+                    "referer": "https:\/\/indihome.co.id\/",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6vr5ACCkasReszsIz2jhTb3EohuPp6wPgSm59J6SUBdcCBidZnk_77p9b0ABrwZJW0i-b2DqXRc5dQdlAOlteEfufPzZt3VTwviXv9nm-cnRpqt_bGDnaa-EZVKrmwfinKTEXsLgVfBSSe0_i0t3XRaXsVx3u9xv2qhGMmhT8J3hjaQFqOUTQcazNErQ\/s1280\/20240910_190037.jpg",
+                    "name": "Animal Planet",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/animalplanet\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+            {
+                    
+                    "referer": "https:\/\/indihome.co.id\/",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgUt4EuTW-iNMtW4pqOwCFRP__eDA2n9lpNrYRRPL2Su7UW3wHFAuKy1bz7_NbgHVu9AMbsJGkDZajNYUS1LHp_uWBYCFpL-tmu1qDcwzr78zOIoyFF1FXWf40gqV2D3j87Blkk-pIyrLSe4Fpn2i9EkUvGZGgELCS9xBcASTn3Ulww97_kSPd0tyfzkUE\/s1280\/20240910_185630.jpg",
+                    "name": "Discovery Asia",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/discoveryasia\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
             
                 {
                     "drm_id": "OUTDOOR",
