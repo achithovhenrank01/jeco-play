@@ -265,6 +265,13 @@
                     "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 }
+                {
+                	"referer": "https:\/\/indihome.co.id\/",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
+                    "name": "Dunia Lain",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/dunialain\/index.m3u8?c",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                }                
             ]
         },
         {
@@ -911,6 +918,13 @@
                     "name": "Hits Movies",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                	"referer": "https:\/\/indihome.co.id\/",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGz91gtppt2-uoBERo5MeBxpKEYjl0aXWNmL9Qg1Rfxx4Pt4L-ebYvF9aB3qMGl0Ae4Nn5th81Phlmq2F-3FpqI726PBZSlq1fSJXT1GAnZXkZEq-tQPUYBJoi_0dPUdID5YyHxXeK-s_P0S4v5vd277uKoxvRlbqcvgWED5OO5qSEkAqrvcWHEMogayg\/s1280\/20240911_024702.jpg",
+                    "name": "K+",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/kplus\/manifest_wuseetv.mpd",
+                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 }
             ]
         },
