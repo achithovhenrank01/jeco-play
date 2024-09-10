@@ -1194,6 +1194,12 @@
                     "name": "Tnt 5",
                     "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/gesdwrdncn\/out\/v1\/79e752f1eccd4e18b6a8904a0bc01f2d\/cenc.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
+                    "name": "Sony Sport 1",
+                    "stream_url": "http:\/\/starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
             ]
         },
