@@ -1046,6 +1046,38 @@
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
                 {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiWvGiznhPPz_If-L79WUb9_5f8s81y_GdKnd851Riw2pT5tl6FKKuQJzw5ZcDCR0RIaraEN8GO7RygWP0bbmEB58Rkr_-b8L1FtaASzx8Va628ZRA2VQiGb1nkN8QCk83OgQ_f6GxQf7fWYcJZxlZyad6fhmz-Zl_wCpFI87T9iJzg2LxotunzZ4nyRJc\/s1280\/20240910_232426.jpg",
+                    "name": "Dazn F1",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-016\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEglTQIGbIlOXL5YX_e0DaVjRKDqmzmXCpc7mnwRCD3CXEWUw6c7b2qjNNFP0VQtDlwO0Fr1hEHPVro_zCVeQqRysbRFHAjpMwzYrp39Wpd_UgaG-eV0Jbs54vMweu_kvSc8nzYClrJy3pMnDrLH7m_qqfkPpFx7-fHMGSDfT3VQ0w4qxkuRiQ27DjL4Hec\/s1280\/20240910_232757.jpg",
+                    "name": "Dazn Laliga",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-043\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEio9Nax9hnC2IVdhIWZP6X9kTM4h_e0wWQB6w6NrH-8RAPA7ILFcca33zgvso352AR0RE8w6_FzC8R4lUMMALutzwz6s8Db56WpB170grudArHTiH6S-NpM_uO93d_vAp-sBZZGhjd_-hof5dXG1fjX84fOW0V78W8zgqVXtf-NDmv7FpifDE0lpW6Bz9s\/s1280\/20240910_232652.jpg",
+                    "name": "Dazn Seria",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-024\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjzE_87N2j2GU0CLTB7YvwWuuuwIt3Vc8EjcmCgG0IKNeYZElSm5njXP0eY1MBfWotIopb6t_DMzrEOpBQXKZzeaI8VZI4rBZLAqvyvbCSBqkkZISEbgsFevTfTiZxjOu2TaoxVr8esFJ5R2cm-lV26grUZNrFeLipcV7cO0ilJupS0DV6PKcyBYh83s6M\/s1280\/20240910_232906.jpg",
+                    "name": "Laliga Tv",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-040\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
@@ -1079,7 +1111,7 @@
                     "drm_id": "SPORTSTARS",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c350a134\/2fc0_r32.jpg",
-                    "name": "SPORTSTARS",
+                    "name": "Sportstars",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -1087,7 +1119,7 @@
                     "drm_id": "SPORTSTARS2",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
-                    "name": "SPORTSTARS 2",
+                    "name": "Sportstars 2",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },         
