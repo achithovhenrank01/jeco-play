@@ -1198,7 +1198,31 @@
                 {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
                     "name": "Sony Sport 1",
-                    "stream_url": "http:\/\/starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.m3u8",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/154.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhNlrq-KSSHtCbBC3V5TFHtq5Xw4ID6zZL5sP4ylBXltKXEsaZOPYJOcMbgbAE6tz8loMp9q0xLzDM5b3iwiJo4jplGpGE192rdi7RWGytALQwgKsai4P5DTKJ3k0XXYbNWj4JNP23imPf0vpUIBaKBa67GNMLazspjJzB2ssFx9ua7OfXcxpbiFFWUVX4\/s1280\/20240911_015612.jpg",
+                    "name": "Sony Sport 2",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/31314.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg6xvdkj4o75ZzYMxPUAKguKRT24VbcFPjoFCsQF7cTrrpqgeW_4rk-FJnW3hWHsR6A2MP7Fsw2zq4LO0u_WVFDeLKtYaeTomKWUPmR8Pi0Fen9eDmCtmM7yZhm-gyfHerOq5CAd1H3XX_nrPv9No3ux_BW2iwoDXYwEEhGnTW7-38Ax84mvjEf_ywbCYY\/s1280\/20240911_015652.jpg",
+                    "name": "Sony Sport 3",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/146.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi5S3TSZ5OGYG4its_USTotnkhICWvhKJdTxegcoty78ihStgBOGFlG1YT8aP4l8jwaBPAXAM2se1lXJbIoei1bZT0-b_7OWBUyNMraOOB9cIO9E2Q4Qm1aBiywZfR3hB8D3Sx9j-anEN3c3m8TnXcZ3LIB32Ble7AqcNj3GClCbV_Aq40ggCp_f_ryPuw\/s1280\/20240911_015719.jpg",
+                    "name": "Sony Sport 4",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/29469.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDAEHbHGcr7lXbuzCxfZNv7fITFw8QAhA1SaomxD1Rg8plpbjvWXCq00fMuz3qv9xM6o862KNto-eteEOfrqN9toky_TWx0v1sSnCMpa4SAQKL3XSUKcTnFVC60v9oodBV4xRvHGBCNEmlIYoHD9PZFI4GXk_suN5Dt-TvCqL5k8ZN0FG-Ue08U-W59Bc\/s1280\/20240911_015747.jpg",
+                    "name": "Sony Sport 5",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/176.m3u8",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 }
             ]
