@@ -1078,6 +1078,14 @@
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
                 {
+                    "drm_id": "dazn",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhW1FyRT8FZrOf0kXaLAMyHvon-X0plrUU-MP0jj21G4dMG0irfyqczkgeeaGxqZLdl7bY_4eQvBZ6DQH9ypc0bbkaCUKEhc7xJVvckNy85WIwg2HOiirZqS173GpTrPZc5Aq-hthNZCLk8UItX0_angvrisK-vKiUHV1qaRddwVgy2KtZOQrcdqxmYpb0\/s1280\/20240911_005106.jpg",
+                    "name": "Sport Digital",
+                    "stream_url": "https:\/\/dcf-fs-live-dazn-cdn.dazn.com\/dash\/dazn-linear-022\/stream.mpd",
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
+                },
+                {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
