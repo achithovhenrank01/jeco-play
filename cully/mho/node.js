@@ -101,10 +101,9 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "referer": "https:\/\/ben.quietlywheat23.shop",
-                    "logo_url": "https:\/\/s.id\/29Cyk",
-                    "name": "Bri Liga 1",
-                    "stream_url": "http://fhlsport20.fls77.xyz/token-cRB%2Fm%2BGXeKWG6GItwfY6zTrVlJqBgijjOiKikKVGE2an4LXKHUFdCIwsqRVBW0VJBCeIxjNmkg%3D%3Da/cfall/s2/v3b/no39sr49nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/27/chunks.m3u8",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
+                    "name": "Kbs world",
+                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn08jtedge.indihometv.com\/dassdvr\/133\/kbsworld_dash\/manifest.mpd",
                     "user_agent": "ExoPlayerLib\/2.9.6"
                 },
                 {
