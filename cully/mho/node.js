@@ -88,7 +88,7 @@
                     "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29Cys",
-                    "name": "SCTV",
+                    "name": "Sctv",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -96,7 +96,7 @@
                     "drm_id": "first",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29Cyk",
-                    "name": "INDOSIAR",
+                    "name": "Indosiar",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -111,7 +111,7 @@
                     "drm_id": "RCTI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
-                    "name": "RCTI",
+                    "name": "Rcti",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -119,7 +119,7 @@
                     "drm_id": "GTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/79058031\/9f94_r32.jpg",
-                    "name": "GTV",
+                    "name": "Gtv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -127,7 +127,7 @@
                     "drm_id": "MNCTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88d6f245\/d9c5_r32.jpg",
-                    "name": "MNC TV",
+                    "name": "Mnctv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -143,7 +143,7 @@
                     "drm_id": "ANTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/14268442\/234d_r32.jpg",
-                    "name": "ANTV",
+                    "name": "Antv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
