@@ -101,6 +101,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                	"drm_id": "indoho",
                 	"referer": "https:\/\/indihome.co.id",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
                     "name": "Kbs world",
@@ -1901,6 +1902,11 @@
             "drm_id": "vision",
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
             "drm_type": "com.widevine.alpha"
+        },
+        {
+            "drm_id": "indoho",
+            "drm_key": "69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a",
+            "drm_type": "clearkey"
         },
         {
             "drm_id": "first",
