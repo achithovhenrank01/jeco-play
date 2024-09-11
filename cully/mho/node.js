@@ -104,7 +104,7 @@
                     "referer": "https:\/\/ben.quietlywheat23.shop",
                     "logo_url": "https:\/\/s.id\/29Cyk",
                     "name": "Bri Liga 1",
-                    "stream_url": "https://fhlsport20.fls77.xyz/token-cRB%2Fm%2BGXeKWG6GItwfY6zTrVlJqBgijjOiKikKVGE2an4LXKHUFdCIwsqRVBW0VJBCeIxjNmkg%3D%3Da/cfall/s2/v3b/no39sr49nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/27/chunks.m3u8",
+                    "stream_url": "http://fhlsport20.fls77.xyz/token-cRB%2Fm%2BGXeKWG6GItwfY6zTrVlJqBgijjOiKikKVGE2an4LXKHUFdCIwsqRVBW0VJBCeIxjNmkg%3D%3Da/cfall/s2/v3b/no39sr49nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/27/chunks.m3u8",
                     "user_agent": "ExoPlayerLib\/2.9.6"
                 },
                 {
