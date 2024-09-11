@@ -101,6 +101,13 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "referer": "https:\/\/ben.quietlywheat23.shop\/",
+                    "logo_url": "https:\/\/s.id\/29Cyk",
+                    "name": "Bri Liga 1",
+                    "stream_url": "https:\/\/fhlsport20.fls77.xyz\/token-IkN%2FyrCULKSGvzMoyvY6yjrRlJrahC7jayKvz%2FBOEjbz5bTKHUFdCIwsqBFMX0hJBCeIxjNmkg%3D%3Da\/cfall\/s2001\/v3b\/632p8841nUE0pQbiY3EmAmphZ3umqT0ho25y\/super\/3x_575146.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "RCTI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
