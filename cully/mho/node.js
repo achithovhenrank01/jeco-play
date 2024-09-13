@@ -986,6 +986,48 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=93",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=94",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=94",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=95",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 5",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=95",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=96",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 6",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=96",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=97",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 7",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=97",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=98",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 8",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=98",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=99",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 9",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=99",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
