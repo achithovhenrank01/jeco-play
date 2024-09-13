@@ -8,7 +8,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
                     "name": "Tv 1",
                     "stream_url": "https:\/\/keralamaxtv.com\/sliv\/stream.php?id=785",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;)"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;) ExoPlayerLib/2.13.2"
                 },       
                {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
