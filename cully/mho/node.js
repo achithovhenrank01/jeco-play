@@ -9,27 +9,6 @@
                     "stream_url": "https:\/\/d25tgymtnqzu8s.cloudfront.net\/smil:tv1\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-                {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=91",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
-                    "name": "Bein Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=91",
-                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
-                },
-                {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=92",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
-                    "name": "Bein Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=92",
-                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
-                },
-                {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=93",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
-                    "name": "Bein Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=93",
-                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
-                },
                 {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiS1O50l9iAyEfkm0gHUiTTj9NkXbLFmzfXrwk6yeiE2idsTyD5XVvE3j6uSH4y4v0wDXZEx3eGyK1qDC-1gKeeYub2ka0zHwg_7GeGxAOPOQgeZ6v-tbCEEybM9mf7wz-nfk97tHsipWa2ZaifUdQJOwDVQjC4Dg2Kl1ZtdgHX5glgAr5uQuDXEabrO6Y\/s1280\/20240910_003649.jpg",
                     "name": "Tv 2",
@@ -963,14 +942,6 @@
             "name": "Sport",
             "channels": [
             {
-                    "drm_id": "go3sp3",
-                    "referer": "",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY3cLP-mrVvtaIzEzT4SBIrAEwklNnvrVzWdAq3EY_A7y3fTxg7aoS4Wufa-jlq3s_34q_aeP0ZsJrhDKqpBfRz64XfCIL3wDC8b92gisjf8eP73f-kW_M3Am1ipGSjKF-R3GIIpEjMaP80-LkiLQKqyrvQg8ufOT3N37TV_EtFGhnO5_MX4HcBuCekP4\/s1280\/20240909_102800.jpg",
-                    "name": "Go3 Sport 3",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport3_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport3_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-            {
                     "drm_id": "go3sp2",
                     "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhvsg29b-kUU0-l48qf_6tFvxdOAV8jITpTnYaKSXmnu-BnT2iFl3jALiL_xYcPqt_FjasF1W3qMIoVa5Ioqj-7CXnZiEFYslkgIMw6p5z5dYJ3IoNLKNPxyeNZGKi89bNbDINi1pqV5IDaHf7eYsMNJ_IML2yhASaeAQS8VLritm1qcqxQvO3KTctOkfA\/s1280\/20240909_102305.jpg",
@@ -978,7 +949,7 @@
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport2_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport2_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-            {
+                {
                     "drm_id": "go3sp1",
                     "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgks1LG8S3WQarCFaV6t6UjuG6T67JI3GObmVKIOMEX8b-y0k-Nqg0aW_XajfgcFOwxIT8W5DW4DFfWqG__exTOJjZGFtSi3TetoXavUO_A6rkAtkb0FQ9EzMKVlhcPzA22w9O8rnj-b-8xwaQhyaQXMcFxdD01tNsI9LQvyvQ-ar0jWxgc9mrE19pEG30\/s1280\/20240909_100746.jpg",
@@ -986,7 +957,36 @@
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-            {
+                {
+                    "drm_id": "go3sp3",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY3cLP-mrVvtaIzEzT4SBIrAEwklNnvrVzWdAq3EY_A7y3fTxg7aoS4Wufa-jlq3s_34q_aeP0ZsJrhDKqpBfRz64XfCIL3wDC8b92gisjf8eP73f-kW_M3Am1ipGSjKF-R3GIIpEjMaP80-LkiLQKqyrvQg8ufOT3N37TV_EtFGhnO5_MX4HcBuCekP4\/s1280\/20240909_102800.jpg",
+                    "name": "Go3 Sport 3",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport3_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport3_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=91",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
+                    "name": "Bein Sport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=91",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=92",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
+                    "name": "Bein Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=92",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=93",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=93",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {
                     "drm_id": "dazn",
                     "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjdO_EK2W4zMEfbuavDXDu2JwpHB_40-OU56tJRskkEYwxEUylPAAIJ4TiTQcfjrCS64BINiQQuVVZE-yUoj0oA62ucXWNmAkAxfJ-Q1EZ-VPpQ9BOyzbbN4Y7uJX3r3R2Zypt3Euy1JX_SwW0PjL8pJqtKmS_0dfNxiwGVc0T8UIHyESbwyHwgBDplKEE\/s1280\/20240909_002010.jpg",
