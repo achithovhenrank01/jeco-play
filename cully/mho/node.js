@@ -972,6 +972,34 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=631",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=631",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=632",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=632",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=633",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=633",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=634",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=634",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=91",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
                     "name": "Bein Sport 1",
