@@ -972,6 +972,34 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=439",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
+                    "name": "Orange Sport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=439",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=440",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
+                    "name": "Orange Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=440",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=441",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
+                    "name": "Orange Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=441",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=442",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
+                    "name": "Orange Sport 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=442",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=631",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
                     "name": "Nova Sport 1",
