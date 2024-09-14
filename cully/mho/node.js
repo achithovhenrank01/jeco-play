@@ -972,6 +972,41 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=111",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=111",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=112",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=112",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=113",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=113",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=114",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=114",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=115",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 5",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=115",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=465",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
                     "name": "Diema Sport 1",
