@@ -972,6 +972,27 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=465",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
+                    "name": "Diema Sport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=465",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=466",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
+                    "name": "Diema Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=466",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=467",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
+                    "name": "Diema Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=467",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=583",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
                     "name": "Prima Sport 1",
