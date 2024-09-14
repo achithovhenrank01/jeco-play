@@ -1085,6 +1085,34 @@
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=400",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
+                    "name": "DIGI Sport 1 HD",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=400",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=401",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
+                    "name": "DIGI Sport 2 HD",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=401",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=402",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
+                    "name": "DIGI Sport 3 HD",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=402",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=403",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
+                    "name": "DIGI Sport 4 HD",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=403",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=61",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
                     "name": "Bein Sport 1 HD",
