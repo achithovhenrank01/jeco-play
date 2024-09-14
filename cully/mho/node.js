@@ -1237,6 +1237,20 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=83",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=85",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNZ3wer16fWkWNaAW3o0ra8sdPao381s64TY839A8Ci0zEySYIaPnt3H186VKicJPhzawhL7ckN8SoffO4RPxAhCEg36K_gnF8yVgZAAVsd4rYzO08ZABqIa254xhosHQARV1HAXlzOE0sAZ3vB3rkL1dNsvzQjBRMJrQWCt5RrfR9sMvYOxo6tEYZOM/s1280/20240914_131526.jpg",
+                    "name": "ESPN 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=85",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=84",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFp_VY3hVuEJszXM7WFphdKS5S-amA7nt1Vz1_cCgdGyj66n7lATIdBj5ROCJLfHhKBuoXy22vXBYoI3oVZ84lgbc1iSMZ_VXaTtTYmjI8MClqtC7bLSpM8t8idbD3B9pHGiPAbXpzeMUWbTnE5DiQKeMfIAyEzYg5naxN2-Bz6_nDNOZshZJ4feKdCGg/s1280/20240914_132627.jpg",
+                    "name": "M+ Laliga",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=84",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
