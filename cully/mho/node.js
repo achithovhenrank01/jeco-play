@@ -1056,6 +1056,34 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=126",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=62",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
+                    "name": "Bein Sport 1 Turkey",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=62",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=63",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
+                    "name": "Bein Sport 2 Turkey",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=63",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=64",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 3 Turkey",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=64",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=67",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5HevrvTX_bQ-ryFS5I6pkONCWPfxtuAOElEIWJG8S0_9W4usMhZJzjtJt1C3aSvleNk_FsufEDuuo2vdUxD2qvgSD_k0xRKtPGs5ARF8-JHb9P-rKWDBP6PIgqNcpGWu3iX30qKs24DtOBmm9Ts8gkKMroj7-X1ilcuTwqMnlADNfV0NKIU3N7oonn0/s1280/20240914_031329.jpg",
+                    "name": "Bein Sport 4 Turkey",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=67",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
