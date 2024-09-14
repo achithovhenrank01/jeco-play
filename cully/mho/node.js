@@ -1028,6 +1028,34 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=99",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=123",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAPWyVdWX3x0o8_KdpGu9W0cmiYHSPiazdtjT0niD4pjRyHKjEq5o6scQx1iNlIqZNFqkSjDGH5jT0MigJatso2d7MBfVj4pJ5F5eIVbxiqs5EhHuXw6t_6m28SJC3KttDyOZJ634w3AXJK_TKX_eh_hYdwOfXMmyeqcLF3JcYKnyO1aMScbKuHMw-l4/s1280/20240914_103746.jpg",
+                    "name": "Astro Super Sport",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=123",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=124",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5l6FoBU6ONya0_hpEcLS20JMmuRhG6jf-EvxcyeMgTBJKGeXwx9Ykn8-p2naW7kNZvH3m0DNy7WQDEwFgEFrR0sKOu44BzK4asYynvaiiVeFuiIxaePoxFLwJPjC-il1GT2HLLIrZjXWscUbua3Boycv_OCc2p7uVv8vBO3mpifLUCL6-FUMPV4qRDGQ/s1280/20240914_103807.jpg",
+                    "name": "Astro Super Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=124",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=125",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23FNkDHOSU73wnk9i8IJ-dHQVqj5fxVJdzITmzmTizmxiieeE4LNAHxYbJeX3FTYWOZmDNrqxq4QKGHdqUxoUdzYadVJMDEsvI8FYXSoErAdcBqIrcQrDh_0SObYMIEnv0dsS1h8sqcUqvGQZWKBacgssPAz_ljMZ3VKmqvzPglykroWqK3Xvv5YSL7o/s1280/20240914_103833.jpg",
+                    "name": "Astro Super Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=125",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=126",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkrnfiwVRy0eYj5zE3rf4P-BLAnOWuftw129qgZ8T_bXPBc5WxuyAWVoYgXrSMggrkafUXP6JRurBKGW3mOsTobelu3wbHxj2AZOzaJdwI9K504qIlHwNMmOSgL3HTlQJ50uJpR0vEB8kyhHxrv1UcD-UVS6olOdsLH65xGJ6onVDRZoVnyi6uITVyqXo/s1280/20240914_103853.jpg",
+                    "name": "Astro Super Sport 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=126",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
