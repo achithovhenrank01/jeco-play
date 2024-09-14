@@ -2,7 +2,13 @@
     "categories": [
             {
             "name": "National Tv",
-            "channels": [  
+            "channels": [
+                {
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_JGj1bbHYl067ePijjUB_yxAMXXI1CCnOaVgIcIOmwW3Zs_TRVYEZh8y9DQGRju_-hKo0oi40gCm_t-pU6c8z0bEbSi6ymXNzPWvcUXUZABPbd-emzdNJ7h9REZk1PakFXILv3VXp5yZoDbWNZj5LVx8pJ7BbjOy147GWl1_M5oXqy5bHhji2yeBE0g/s1280/20240914_123643.jpg",
+                    "name": "Channel Pengganti",
+                    "stream_url": "https://achijie07.github.io/Cilubba/siri_palaoka.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhlbvYw4ae07Ir0IMfk0BGj1WrA6DDfO7sS28Q3pIMCo7pmS6mLisK8AbhrDJg1breEticAzwEx3z_8ATkRYlDrWFfN8yWMsWFWeHIjLO44P-n80rDP3duG0fClfiIbBIsyLTwWBFuMddwi_-Y9XlcagzJRW3WGXB35cbzB8t5SEsu-NazI1XAbagrWNVw\/s1280\/20240910_003215.jpg",
                     "name": "Tv 1",
