@@ -1216,6 +1216,27 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=425",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=81",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNZ3wer16fWkWNaAW3o0ra8sdPao381s64TY839A8Ci0zEySYIaPnt3H186VKicJPhzawhL7ckN8SoffO4RPxAhCEg36K_gnF8yVgZAAVsd4rYzO08ZABqIa254xhosHQARV1HAXlzOE0sAZ3vB3rkL1dNsvzQjBRMJrQWCt5RrfR9sMvYOxo6tEYZOM/s1280/20240914_131526.jpg",
+                    "name": "ESPN",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=81",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=82",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNZ3wer16fWkWNaAW3o0ra8sdPao381s64TY839A8Ci0zEySYIaPnt3H186VKicJPhzawhL7ckN8SoffO4RPxAhCEg36K_gnF8yVgZAAVsd4rYzO08ZABqIa254xhosHQARV1HAXlzOE0sAZ3vB3rkL1dNsvzQjBRMJrQWCt5RrfR9sMvYOxo6tEYZOM/s1280/20240914_131526.jpg",
+                    "name": "ESPN 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=82",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=83",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNZ3wer16fWkWNaAW3o0ra8sdPao381s64TY839A8Ci0zEySYIaPnt3H186VKicJPhzawhL7ckN8SoffO4RPxAhCEg36K_gnF8yVgZAAVsd4rYzO08ZABqIa254xhosHQARV1HAXlzOE0sAZ3vB3rkL1dNsvzQjBRMJrQWCt5RrfR9sMvYOxo6tEYZOM/s1280/20240914_131526.jpg",
+                    "name": "ESPN 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=83",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
