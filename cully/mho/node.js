@@ -1251,6 +1251,34 @@
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=84",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=57",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFdZ3gHGFmneLBz826qtadJ7ODphjFeXSqOk8hyKNVu3jYcoFqFVmMaVXNOtGgefYv9CQOfcLuM_BtI3OgVrDb2GqMwc6atHlAz_LKTVRajVVm4uC2C5Z8txyor26RmSQNGYt5OKeOA1gzG01MHOayT75UDU3U5_zXsyaF-awPZ9g0KI4jAQSUbcxjY/s1280/20240914_134237.jpg",
+                    "name": "Eurosport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=57",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=58",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFdZ3gHGFmneLBz826qtadJ7ODphjFeXSqOk8hyKNVu3jYcoFqFVmMaVXNOtGgefYv9CQOfcLuM_BtI3OgVrDb2GqMwc6atHlAz_LKTVRajVVm4uC2C5Z8txyor26RmSQNGYt5OKeOA1gzG01MHOayT75UDU3U5_zXsyaF-awPZ9g0KI4jAQSUbcxjY/s1280/20240914_134237.jpg",
+                    "name": "Eurosport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=58",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=231",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFdZ3gHGFmneLBz826qtadJ7ODphjFeXSqOk8hyKNVu3jYcoFqFVmMaVXNOtGgefYv9CQOfcLuM_BtI3OgVrDb2GqMwc6atHlAz_LKTVRajVVm4uC2C5Z8txyor26RmSQNGYt5OKeOA1gzG01MHOayT75UDU3U5_zXsyaF-awPZ9g0KI4jAQSUbcxjY/s1280/20240914_134237.jpg",
+                    "name": "Eurosport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=57",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=232",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFdZ3gHGFmneLBz826qtadJ7ODphjFeXSqOk8hyKNVu3jYcoFqFVmMaVXNOtGgefYv9CQOfcLuM_BtI3OgVrDb2GqMwc6atHlAz_LKTVRajVVm4uC2C5Z8txyor26RmSQNGYt5OKeOA1gzG01MHOayT75UDU3U5_zXsyaF-awPZ9g0KI4jAQSUbcxjY/s1280/20240914_134237.jpg",
+                    "name": "Eurosport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=58",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
