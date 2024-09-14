@@ -1789,7 +1789,7 @@
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=97",
+                    
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxCd4NV7qdSNw8AfUlONtIMuXm71UQhbpkG3cIKshRUEGjia1j-VNlQRphbj0Wv8ZMEVlhG6HR_kFyKmR6uAqCp56KI4esA92uVpQ4G0rp0INRlLHS30ZbchozAFONsnhRAw96INvyDFkS84Cfr3K7xbeRg1xNTgh4H9ds_UMrWmxt8tRFO9ArDu84iM/s1280/20240914_031521.jpg",
                     "name": "Bein Sport 7",
                     "stream_url": "https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8?",
