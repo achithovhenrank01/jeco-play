@@ -1442,7 +1442,7 @@
                     "drm_id": "live1",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 9",
+                    "name": "Live Football 10",
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
@@ -1450,7 +1450,7 @@
                     "drm_id": "live1",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 10",
+                    "name": "Live Football 11",
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
@@ -1458,7 +1458,7 @@
                     "drm_id": "live1",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 11",
+                    "name": "Live Football 12",
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
@@ -1466,7 +1466,7 @@
                     "drm_id": "live1",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 12",
+                    "name": "Live Football 13",
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
@@ -1474,7 +1474,7 @@
                     "drm_id": "live1",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 13",
+                    "name": "Live Football 14",
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
