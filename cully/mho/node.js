@@ -972,6 +972,34 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=583",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
+                    "name": "Prima Sport 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=583",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=584",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
+                    "name": "Prima Sport 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=584",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=585",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
+                    "name": "Prima Sport 3",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=585",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=586",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
+                    "name": "Prima Sport 4",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=586",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
                     "referer": "https://mhdtv.co.in/daddy/?play=439",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
                     "name": "Orange Sport 1",
