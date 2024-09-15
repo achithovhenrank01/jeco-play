@@ -1460,7 +1460,6 @@
             "drm_id": "first",
             "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
             "drm_type": "clearkey"
-        },
-               
+        }
     ]
 }
