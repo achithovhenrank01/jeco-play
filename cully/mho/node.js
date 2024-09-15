@@ -1,10 +1,10 @@
 =====Update Versi=====
  
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="Lokal Auto", INDOSIAR 
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="Lokal Auto", UPDATE
 #https://bit.ly/3MeFJVc
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://achithovhenrank01.github.io/jeco-play/achijie.mp4
 
 =====Lokal Auto=====
 
