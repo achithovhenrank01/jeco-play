@@ -4,7 +4,7 @@
             "name": "National Tv",
             "channels": [
                 {
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQFlGvyu-Ni149V1n5sE2D5qhFSbCvRDwWGhvMnT23n-e5FS47mvwlMgpiyfMYdGjoe5bhGl3MQ3bXZtUnsvPHrS82keIu2YM_m-GYyAtWcr6OWTBS4eWLN39_7jEdPw6Q4ZdmtX6iAuooUg7Y6rMZiGoF9VZjtunWVYXqwOXjrQ6CoboLggphQMhIAC8/s800/20240915_081652.png",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimdQHuovU_NLhvlUpdjovIwy4mKlhZDn7He0otEW6V2xa3N_0FR-dVZ3OGg90GpPs0RDwWyjcFY7GCJZEg8d2RvKx8601N2UOTXro44byR0xBu3WfxT72DYqf_-NoLzBsY2zcriBjOT3FXYjrjToiSy75DNHGv6Un1ctG-ghprTlY9uCecAAeABfdtRUQ/s1280/20240915_082525.jpg",
                     "name": "Channel Pengganti",
                     "stream_url": "https://achijie07.github.io/Cilubba/siri_palaoka.m3u8",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
