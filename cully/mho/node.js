@@ -32,14 +32,6 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                	"drm_id": "indoho",
-                	"referer": "https:\/\/indihome.co.id",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
-                    "name": "Kbs world",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn08jtedge.indihometv.com\/dassdvr\/133\/kbsworld_dash\/manifest_useetv.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
                     "drm_id": "RCTI",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
@@ -120,12 +112,6 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c8369888\/3fdb_r32.jpg",
-                    "name": "Rtv",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/rtv\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                },
-                {
                     "drm_id": "KOMPASTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4a7a3eac\/d2ce_r32.jpg",
@@ -188,27 +174,7 @@
                     "name": "Net.",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NetTV-HD\/sa_dash_vmx\/NetTV-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                	"referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
-                    "name": "Net.",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/net\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                },
-                {
-                	"referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjVq5HDH8POEHXH0IIJJ-Us-wc_S534cLVxWU_R_M6WR6ZTj0YPM3gWguwm0q9wkOuWFtsgicA9CPu7OBU8TEOqgYAeca4hLxie21FAJZ1BGtVDcPMZlm8NqnyAxJIO3-akeibycwa01a8a1NRKTsXFmoOB5sPjCzdMZ21wzyl0Ur3DeODzeOGbm-5vjyA\/s1280\/20240910_015539.jpg",
-                    "name": "Mentari",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                },
-                {
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
-                    "name": "Dunia Lain",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/dunialain\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                }                
+                }
             ]
         },
         {
@@ -497,23 +463,6 @@
         {
             "name": "Knowledge",
             "channels": [
-            {
-                    
-                    "referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6vr5ACCkasReszsIz2jhTb3EohuPp6wPgSm59J6SUBdcCBidZnk_77p9b0ABrwZJW0i-b2DqXRc5dQdlAOlteEfufPzZt3VTwviXv9nm-cnRpqt_bGDnaa-EZVKrmwfinKTEXsLgVfBSSe0_i0t3XRaXsVx3u9xv2qhGMmhT8J3hjaQFqOUTQcazNErQ\/s1280\/20240910_190037.jpg",
-                    "name": "Animal Planet",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/animalplanet\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-            {
-                    
-                    "referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgUt4EuTW-iNMtW4pqOwCFRP__eDA2n9lpNrYRRPL2Su7UW3wHFAuKy1bz7_NbgHVu9AMbsJGkDZajNYUS1LHp_uWBYCFpL-tmu1qDcwzr78zOIoyFF1FXWf40gqV2D3j87Blkk-pIyrLSe4Fpn2i9EkUvGZGgELCS9xBcASTn3Ulww97_kSPd0tyfzkUE\/s1280\/20240910_185630.jpg",
-                    "name": "Discovery Asia",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/discoveryasia\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-            
                 {
                     "drm_id": "OUTDOOR",
                     "referer": "https:\/\/www.visionplus.id",
@@ -643,20 +592,6 @@
                     "name": "Cinemax",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CinemaxHD\/mpd\/CinemaxHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                	"referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
-                    "name": "Galaxy Premium",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                },
-                {
-                	"referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
-                    "name": "Galaxy",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "MCN",
@@ -801,18 +736,6 @@
                     "name": "Hits Movies",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {                	
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGz91gtppt2-uoBERo5MeBxpKEYjl0aXWNmL9Qg1Rfxx4Pt4L-ebYvF9aB3qMGl0Ae4Nn5th81Phlmq2F-3FpqI726PBZSlq1fSJXT1GAnZXkZEq-tQPUYBJoi_0dPUdID5YyHxXeK-s_P0S4v5vd277uKoxvRlbqcvgWED5OO5qSEkAqrvcWHEMogayg\/s1280\/20240911_024702.jpg",
-                    "name": "Kplus",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/kplus\/manifest_wuseetv.mpd",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
-                },
-                {                	
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh6xy7qsbMAGLCCZ4zfZlIL3jnkAtXD4vtrV3D9Dw16LPyxsnmA_p1OHPf3x4juYWMRS21TxsLmvEygnU12fpdwJcopYm-CbAHJ2NtnhWP8z3IrXSikTdTD2tEZhMw63xHf4IZQUT0_eejQQaSpMn1Vd6BKlO4hWBy0tdkz9tRZjsJFai5U7PhKGGTEBvA\/s1280\/20240911_034403.jpg",
-                    "name": "Tv Asahi",
-                    "stream_url": "http:\/\/cdns.jp-primehome.com:8000\/zhongying\/live\/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 }
             ]
         },
@@ -833,20 +756,6 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1465ab\/79a6_r32.jpg",
                     "name": "Spotv 2",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
-                    "name": "Spotv",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib1\/index.m3u8?c",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1465ab\/79a6_r32.jpg",
-                    "name": "Spotv 2",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib2\/index.m3u8?c",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -961,12 +870,6 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9eed23dd\/69a2_r32.jpg",
                     "name": "TVMu",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TVMuhammadiyahnow\/sa_dash_vmx\/TVMuhammadiyahnow.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {                
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgA5Qz7fJOcS7dHm7qP3S9635ZO4a3Pd1gj7lBaivPHngF7Baco7p1U4N6GmihQUqbt4SuqCbbrEim208wJ0njlS6tYNrgctg6JysUt7HBbScFgJF1rXdArXYWnUug1QzQuonZMZAFLGZpmEb8-Vp5ZM8mJUbS3WiG-acakVbr459aAUyXaJkQg1xb9gUQ\/s1280\/20240910_192025.jpg",
-                    "name": "Muitv",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/muitv\/manifest_wuseetv.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
