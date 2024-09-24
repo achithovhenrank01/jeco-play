@@ -9,7 +9,7 @@
                     "logo_url": "https:\/\/s.id\/29Cys",
                     "name": "Sctv",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                {
                     "drm_id": "first",
@@ -17,7 +17,7 @@
                     "logo_url": "https:\/\/s.id\/29Cyk",
                     "name": "Indosiar",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "RCTI",
@@ -25,7 +25,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
                     "name": "Rcti",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "GTV",
@@ -33,7 +33,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/79058031\/9f94_r32.jpg",
                     "name": "Gtv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "MNCTV",
@@ -41,7 +41,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88d6f245\/d9c5_r32.jpg",
                     "name": "Mnctv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "INEWS",
@@ -49,7 +49,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/3f803501\/998e_r32.jpg",
                     "name": "iNews ",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "ANTV",
@@ -57,7 +57,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/14268442\/234d_r32.jpg",
                     "name": "Antv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "TRANSTV",
@@ -65,7 +65,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/dea3544d\/0e5f_r32.jpg",
                     "name": "Trans TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "TRANS7",
@@ -73,7 +73,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/18e2eeff\/59e0_r32.jpg",
                     "name": "Trans 7",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "TVONE",
@@ -81,7 +81,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/1950d43c\/de11_r32.jpg",
                     "name": "TV One",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/TVOne-2\/sa_dash_vmx\/TVOne-2.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "METROTV",
@@ -89,7 +89,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/733e4795\/4dfb_r32.jpg",
                     "name": "Metro TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "RTV",
@@ -97,7 +97,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c8369888\/3fdb_r32.jpg",
                     "name": "Rtv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "KOMPASTV",
@@ -105,7 +105,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/4a7a3eac\/d2ce_r32.jpg",
                     "name": "Kompas TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "TVRI",
@@ -113,7 +113,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c57573a6\/f784_r32.jpg",
                     "name": "Tvri",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "JAKTV",
@@ -121,7 +121,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/75d80b16\/9ff4_r32.jpg",
                     "name": "Jak TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/JakTV\/sa_dash_vmx\/JakTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "JTV",
@@ -129,7 +129,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e658daa\/252e_r32.jpg",
                     "name": "Jtv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/JTV\/sa_dash_vmx\/JTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "BALITV",
@@ -137,7 +137,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/cda6a457\/7e41_r32.jpg",
                     "name": "Bali TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BaliTV\/sa_dash_vmx\/BaliTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "DAAITV",
@@ -145,7 +145,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/ff1edb6e\/3741_r32.jpg",
                     "name": "Daai Tv",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/DAAITV\/sa_dash_vmx\/DAAITV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "BANDUNGTV",
@@ -153,7 +153,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/d4154d1c\/d082_r32.jpg",
                     "name": "Bandung TV",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/BandungTV\/sa_dash_vmx\/BandungTV.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 },
                 {
                     "drm_id": "NET",
@@ -161,7 +161,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
                     "name": "Net.",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/NetTV-HD\/sa_dash_vmx\/NetTV-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
+                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/108.0.5359.211 Safari\/537.36 WebAppManager"
                 }
             ]
         },
