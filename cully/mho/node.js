@@ -25,7 +25,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
                     "name": "Rcti",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "Mozilla\/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit\/533.17.9 (KHTML, like Gecko) Version\/5.0.2 Mobile\/8H7 Safari\/6533.18.5"
                 },
                 {
                     "drm_id": "GTV",
