@@ -730,126 +730,6 @@
         {
             "name": "Sport",
             "channels": [
-            {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 1",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 2",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 3",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 4",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 5",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 6",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 7",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 8",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 9",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 10",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 11",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 12",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 13",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 14",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
-                {
-                    "drm_id": "live1",
-                    "referer": "",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSYDxgG5Q7nLwWm9GIXGtT3qWpfK1QY0RN2FFuGOSZGfc4h6o7y2wV1uPxQTHm2zFLiKYbYx_b7lQtsYLkL23_PckEEUhwcOET0GNNpVF5hjXscQyN2E0YgHth5Due3oNfH0Z5jrRsWODnJK2mYyg6Ml4qV00AcWIb1h9at_DHjc9YHCdSm5Juh8o-1HU/s1280/20240914_204735.jpg",
-                    "name": "Live Football 15",
-                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd",
-                    "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
-                },
                 {
                     "drm_id": "SPOTV",
                     "referer": "https:\/\/www.visionplus.id",
@@ -1135,11 +1015,6 @@
         {
             "drm_id": "MFC",
             "drm_key": "4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf",
-            "drm_type": "clearkey"
-        },
-        {
-            "drm_id": "live1",
-            "drm_key": "1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
             "drm_type": "clearkey"
         },
         {
