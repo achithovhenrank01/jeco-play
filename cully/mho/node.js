@@ -2054,7 +2054,8 @@
             "drm_id": "tnt5",
             "drm_key": "60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b",
             "drm_type": "clearkey"
-        {
+            },
+           {
             "drm_id": "first",
             "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
             "drm_type": "clearkey"
