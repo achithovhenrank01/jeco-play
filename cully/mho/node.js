@@ -6,7 +6,7 @@
             {
                     "logo_url": "https:\/\/s.id\/tekB7",
                     "name": "A : Peringatan",
-                    "stream_url": "https:\/\/achitho12.github.io/labacir01\/Peringatan.mp4",
+                    "stream_url": "https:\/\/achithovhenrank01.github.io\/jeco-play\/Gratis.mp4",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                {
