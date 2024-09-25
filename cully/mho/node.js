@@ -902,6 +902,97 @@
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Web0S; Linux\/SmartTV) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.79 Safari\/537.36 WebAppManager"
                 },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
+                    "name": "Bein Sport 1",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
+                    "name": "Bein Sport 2",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 3",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5HevrvTX_bQ-ryFS5I6pkONCWPfxtuAOElEIWJG8S0_9W4usMhZJzjtJt1C3aSvleNk_FsufEDuuo2vdUxD2qvgSD_k0xRKtPGs5ARF8-JHb9P-rKWDBP6PIgqNcpGWu3iX30qKs24DtOBmm9Ts8gkKMroj7-X1ilcuTwqMnlADNfV0NKIU3N7oonn0/s1280/20240914_031329.jpg",
+                    "name": "Bein Sport 4",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-bwmYgS1Jm4mUW1AO9pi9zb7ASPycYU51wi68mEOtjHTPR98S_PRgGHsTkgGa1mK1KPlXpDXWox1sSUF98ux5NeVMZxIBgm8IC7WyCBrtmB5iDg4aYfgmlaQS6hZa703tzL6oCCjdgoZIFz8T1yjLj5dcCxK0VR89DrDYT7MEphOcYqci2_VH_CmX490/s1280/20240914_031413.jpg",
+                    "name": "Bein Sport 5",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqpQYcOfg1Ireg4e9CX04K-gHGlnAYyX7kT8oF_Wo5zq9OolnC7VDeuyGQlBKgZYTKPqnWxrkDZMLw5pwfoZEvVztwyHd7S6DnVJI0lSzUbry7SW5rkPYbR5X64JPy2q6F9YQcIZnLh2ey1rn1e1yBsBtmEthBkKJU4XgzxtxnSu7ANbf8TMJd6_DL60w/s1280/20240914_031441.jpg",
+                    "name": "Bein Sport 6",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxCd4NV7qdSNw8AfUlONtIMuXm71UQhbpkG3cIKshRUEGjia1j-VNlQRphbj0Wv8ZMEVlhG6HR_kFyKmR6uAqCp56KI4esA92uVpQ4G0rp0INRlLHS30ZbchozAFONsnhRAw96INvyDFkS84Cfr3K7xbeRg1xNTgh4H9ds_UMrWmxt8tRFO9ArDu84iM/s1280/20240914_031521.jpg",
+                    "name": "Bein Sport 7",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eaH_xhhW8yT8SrUI4sQNqWNMUiu5RkD_lRDCQJuDY9ISFLu3pcH6hDYykEY9eKhPjMPDDPiFcIITyApma3hbAkDWI7U-5-4H51i8c_ty2a7RqWhimSfKKlg88zLDqyXnfaxr43n0YMziGruRgbsCPCYkmG5DFLAiTcULUXIPaCgHIy2b2GbkvDgKFZE/s1280/20240914_031614.jpg",
+                    "name": "Bein Sport 8",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium98/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOZcDOt5KdcygATCBp1P7Vv9-Znv0eRLZVRsyxjKK4qZEHlyGcZ_uXglDBVVk9oGpyieB_FOjf3k0hJ0mGsDyNosldH3o-PQ_5Zm_XK6Fcg9uc-4r57H8ns3xo4CNJ7K49ZbwvJuXOjAjjO-reRhVnkmeZyHZgzkjAJkrvfkDgAC-TSeVeb8rnljMwQ-Q/s1280/20240914_031643.jpg",
+                    "name": "Bein Sport 9",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
+                    "name": "Bein Sport 1 Turkey",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium62/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
+                    "name": "Bein Sport 2 Turkey",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium63/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein Sport 3 Turkey",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium64/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5HevrvTX_bQ-ryFS5I6pkONCWPfxtuAOElEIWJG8S0_9W4usMhZJzjtJt1C3aSvleNk_FsufEDuuo2vdUxD2qvgSD_k0xRKtPGs5ARF8-JHb9P-rKWDBP6PIgqNcpGWu3iX30qKs24DtOBmm9Ts8gkKMroj7-X1ilcuTwqMnlADNfV0NKIU3N7oonn0/s1280/20240914_031329.jpg",
+                    "name": "Bein Sport 4 Turkey",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium67/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
