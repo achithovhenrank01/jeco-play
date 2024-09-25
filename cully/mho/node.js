@@ -3,6 +3,12 @@
             {
             "name": "National Tv",
             "channels": [
+            {
+                    "logo_url": "https:\/\/s.id\/tekB7",
+                    "name": "A : Peringatan",
+                    "stream_url": "https:\/\/achitho12.github.io/labacir01\/Peringatan.mp4",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                {
                     "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
@@ -55,12 +61,6 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/3f803501\/998e_r32.jpg",
                     "name": "iNews ",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "logo_url": "https:\/\/s.id\/tekB7",
-                    "name": "Peringatan",
-                    "stream_url": "https:\/\/achitho12.github.io/labacir01\/Peringatan.mp4",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
