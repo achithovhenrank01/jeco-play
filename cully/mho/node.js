@@ -58,6 +58,12 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "logo_url": "https:\/\/s.id\/tekB7",
+                    "name": "Peringatan",
+                    "stream_url": "https:\/\/achitho12.github.io/labacir01\/Peringatan.mp4",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "ANTV",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/14268442\/234d_r32.jpg",
