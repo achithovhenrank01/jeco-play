@@ -168,6 +168,22 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "drm_id": "CitraBioskop",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhC5AJXRhlKNS76pgRFRcTPS199IvEnJwu8LVFO6kOOEC-KbajU8qNM_IKvUiKzcgGnT5psMA12tPWDRfkZCsVtzJ-2xY0qa6b7gZdPDMmMZ3pavr0HgaSS5sEWRGOXbzzi5MUhdM5Bg4n9j3pNsBu5S-TQ6dKhhN1IOrrn0MFpV7hZwsCGNIcz-NptVJw\/s1280\/20240909_235335.jpg",
+                    "name": "Citra Bioskop",
+                    "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/CitraBioskopHD\/mpd\/CitraBioskopHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "CitraEnt",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj6wwGUPWsXZ4VtDsJDAHVKB8bl-p43s2PKm-UhuYWcKR6pVd3uPOrvouNNolPHDaW5x1PAUB603ioyF2eCD-It79NBYnF7LLO2neYgGlOANTJD7fxlbo_0CRVYfRTgxnTTkNZjmr7mF91uSJWMaEyn7w4lZHShzDMU3z10M5GwpliXDDw-wFqHUgRrP2I\/s1280\/20240909_234327.jpg",
+                    "name": "Citra Entertainment",
+                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CitraEntertainmentHD\/mpd\/CitraEntertainmentHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "NET",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
@@ -995,6 +1011,125 @@
                 },
                 {       
                     "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 1",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 2",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 3",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 4",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
+                    "name": "Tsn 5",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=84",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFp_VY3hVuEJszXM7WFphdKS5S-amA7nt1Vz1_cCgdGyj66n7lATIdBj5ROCJLfHhKBuoXy22vXBYoI3oVZ84lgbc1iSMZ_VXaTtTYmjI8MClqtC7bLSpM8t8idbD3B9pHGiPAbXpzeMUWbTnE5DiQKeMfIAyEzYg5naxN2-Bz6_nDNOZshZJ4feKdCGg/s1280/20240914_132627.jpg",
+                    "name": "M+ Laliga 1",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=84",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=11",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFp_VY3hVuEJszXM7WFphdKS5S-amA7nt1Vz1_cCgdGyj66n7lATIdBj5ROCJLfHhKBuoXy22vXBYoI3oVZ84lgbc1iSMZ_VXaTtTYmjI8MClqtC7bLSpM8t8idbD3B9pHGiPAbXpzeMUWbTnE5DiQKeMfIAyEzYg5naxN2-Bz6_nDNOZshZJ4feKdCGg/s1280/20240914_132627.jpg",
+                    "name": "M+ Laliga 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=11",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {
+                    "drm_id": "tnt1",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjxKM6MTAe_V5s8MxNC8gb6vVusdjkPbHhD7sGWrxdby4QrPyQ5hguRW4oEIqxBf36AV4SmK8x0gdID7dMt6vYMZj7e5GTBMs0hM7xP09_5UCbT2Yc5oLrVWQlEjAI_ubCqLYAJ9h_nmX9xnJX-RhVVtR4Fl-x0BPJAB0P598K9QK__r9RyCJWpB7ioJjs\/s1280\/20240910_230231.jpg",
+                    "name": "Tnt 1",
+                    "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/wf8usag51e\/out\/v1\/bd3b0c314fff4bb1ab4693358f3cd2d3\/cenc.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "tnt2",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjxKM6MTAe_V5s8MxNC8gb6vVusdjkPbHhD7sGWrxdby4QrPyQ5hguRW4oEIqxBf36AV4SmK8x0gdID7dMt6vYMZj7e5GTBMs0hM7xP09_5UCbT2Yc5oLrVWQlEjAI_ubCqLYAJ9h_nmX9xnJX-RhVVtR4Fl-x0BPJAB0P598K9QK__r9RyCJWpB7ioJjs\/s1280\/20240910_230231.jpg",
+                    "name": "Tnt 2",
+                    "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/f0qvkrra8j\/out\/v1\/f8fa17f087564f51aa4d5c700be43ec4\/cenc.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "tnt3",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjxKM6MTAe_V5s8MxNC8gb6vVusdjkPbHhD7sGWrxdby4QrPyQ5hguRW4oEIqxBf36AV4SmK8x0gdID7dMt6vYMZj7e5GTBMs0hM7xP09_5UCbT2Yc5oLrVWQlEjAI_ubCqLYAJ9h_nmX9xnJX-RhVVtR4Fl-x0BPJAB0P598K9QK__r9RyCJWpB7ioJjs\/s1280\/20240910_230231.jpg",
+                    "name": "Tnt 3",
+                    "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/lsdasbvglv\/out\/v1\/bb548a3626cd4708afbb94a58d71dce9\/cenc.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "tnt4",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjxKM6MTAe_V5s8MxNC8gb6vVusdjkPbHhD7sGWrxdby4QrPyQ5hguRW4oEIqxBf36AV4SmK8x0gdID7dMt6vYMZj7e5GTBMs0hM7xP09_5UCbT2Yc5oLrVWQlEjAI_ubCqLYAJ9h_nmX9xnJX-RhVVtR4Fl-x0BPJAB0P598K9QK__r9RyCJWpB7ioJjs\/s1280\/20240910_230231.jpg",
+                    "name": "Tnt 4",
+                    "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/i2pcjr4pe5\/out\/v1\/912e9db56d75403b8a9ac0a719110f36\/cenc.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "tnt5",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjxKM6MTAe_V5s8MxNC8gb6vVusdjkPbHhD7sGWrxdby4QrPyQ5hguRW4oEIqxBf36AV4SmK8x0gdID7dMt6vYMZj7e5GTBMs0hM7xP09_5UCbT2Yc5oLrVWQlEjAI_ubCqLYAJ9h_nmX9xnJX-RhVVtR4Fl-x0BPJAB0P598K9QK__r9RyCJWpB7ioJjs\/s1280\/20240910_230231.jpg",
+                    "name": "Tnt 5",
+                    "stream_url": "https:\/\/live.ll.ww.aiv-cdn.net\/OTTB\/lhr-nitro\/live\/clients\/dash\/enc\/gesdwrdncn\/out\/v1\/79e752f1eccd4e18b6a8904a0bc01f2d\/cenc.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img/b\/R29vZ2xl\/AVvXsEjrvU6so6QX463nIxLRSQkwfvEl1e8AYdJM-Dea7eJWR1IiD7BkWTS5K6n0r8UeT1bQ6YyT2CgGd-Tl6b7qdMO8xnaXpFdglQt4qOQhRhwWQWJCr5Bu0w-R18AnFmIX5BDIV-wY8scWpaB4GQNXWU58u69v7n22tq-3_dz32buDXFSsgh0oJS62ilsDVOk\/s1280\/20240909_094608.jpg",
+                    "name": "Sony Sport 1",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/154.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhNlrq-KSSHtCbBC3V5TFHtq5Xw4ID6zZL5sP4ylBXltKXEsaZOPYJOcMbgbAE6tz8loMp9q0xLzDM5b3iwiJo4jplGpGE192rdi7RWGytALQwgKsai4P5DTKJ3k0XXYbNWj4JNP23imPf0vpUIBaKBa67GNMLazspjJzB2ssFx9ua7OfXcxpbiFFWUVX4\/s1280\/20240911_015612.jpg",
+                    "name": "Sony Sport 2",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/31314.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg6xvdkj4o75ZzYMxPUAKguKRT24VbcFPjoFCsQF7cTrrpqgeW_4rk-FJnW3hWHsR6A2MP7Fsw2zq4LO0u_WVFDeLKtYaeTomKWUPmR8Pi0Fen9eDmCtmM7yZhm-gyfHerOq5CAd1H3XX_nrPv9No3ux_BW2iwoDXYwEEhGnTW7-38Ax84mvjEf_ywbCYY\/s1280\/20240911_015652.jpg",
+                    "name": "Sony Sport 3",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/146.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi5S3TSZ5OGYG4its_USTotnkhICWvhKJdTxegcoty78ihStgBOGFlG1YT8aP4l8jwaBPAXAM2se1lXJbIoei1bZT0-b_7OWBUyNMraOOB9cIO9E2Q4Qm1aBiywZfR3hB8D3Sx9j-anEN3c3m8TnXcZ3LIB32Ble7AqcNj3GClCbV_Aq40ggCp_f_ryPuw\/s1280\/20240911_015719.jpg",
+                    "name": "Sony Sport 4",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/29469.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDAEHbHGcr7lXbuzCxfZNv7fITFw8QAhA1SaomxD1Rg8plpbjvWXCq00fMuz3qv9xM6o862KNto-eteEOfrqN9toky_TWx0v1sSnCMpa4SAQKL3XSUKcTnFVC60v9oodBV4xRvHGBCNEmlIYoHD9PZFI4GXk_suN5Dt-TvCqL5k8ZN0FG-Ue08U-W59Bc\/s1280\/20240911_015747.jpg",
+                    "name": "Sony Sport 5",
+                    "stream_url": "http:\/\/starshare.live:8080\/live\/rvdgdf7647564\/bvchgfd235454\/176.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
                     "name": "SK 1",
                     "stream_url": "https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8?",
@@ -1013,6 +1148,79 @@
                     "name": "SK 3",
                     "stream_url": "https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
+                    "name": "Sportv",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium78/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
+                    "name": "Sportv 2",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium79/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
+                    "name": "Sportv 3",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium80/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 1",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 2",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 3",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
+                    "name": "Nova Sport 4",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {
+                    "drm_id": "go3sp1",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgks1LG8S3WQarCFaV6t6UjuG6T67JI3GObmVKIOMEX8b-y0k-Nqg0aW_XajfgcFOwxIT8W5DW4DFfWqG__exTOJjZGFtSi3TetoXavUO_A6rkAtkb0FQ9EzMKVlhcPzA22w9O8rnj-b-8xwaQhyaQXMcFxdD01tNsI9LQvyvQ-ar0jWxgc9mrE19pEG30\/s1280\/20240909_100746.jpg",
+                    "name": "Go3 Sport 1",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "go3sp2",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhvsg29b-kUU0-l48qf_6tFvxdOAV8jITpTnYaKSXmnu-BnT2iFl3jALiL_xYcPqt_FjasF1W3qMIoVa5Ioqj-7CXnZiEFYslkgIMw6p5z5dYJ3IoNLKNPxyeNZGKi89bNbDINi1pqV5IDaHf7eYsMNJ_IML2yhASaeAQS8VLritm1qcqxQvO3KTctOkfA\/s1280\/20240909_102305.jpg",
+                    "name": "Go3 Sport 2",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport2_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport2_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "go3sp3",
+                    "referer": "",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY3cLP-mrVvtaIzEzT4SBIrAEwklNnvrVzWdAq3EY_A7y3fTxg7aoS4Wufa-jlq3s_34q_aeP0ZsJrhDKqpBfRz64XfCIL3wDC8b92gisjf8eP73f-kW_M3Am1ipGSjKF-R3GIIpEjMaP80-LkiLQKqyrvQg8ufOT3N37TV_EtFGhnO5_MX4HcBuCekP4\/s1280\/20240909_102800.jpg",
+                    "name": "Go3 Sport 3",
+                    "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport3_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport3_HD_HVC.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
                     "referer": "https://qqwebplay.xyz/%20",
@@ -1797,6 +2005,55 @@
             "drm_key": "https:\/\/cubum.iptvgo.workers.dev",
             "drm_type": "com.widevine.alpha"
         },
+        {
+            "drm_id": "CitraBioskop",
+            "drm_key": "94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "CitraEnt",
+            "drm_key": "05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp3",
+            "drm_key": "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp2",
+            "drm_key": "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "go3sp1",
+            "drm_key": "610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "tnt1",
+            "drm_key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "tnt2",
+            "drm_key": "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "tnt3",
+            "drm_key": "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "tnt4",
+            "drm_key": "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "tnt5",
+            "drm_key": "60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b",
+            "drm_type": "clearkey"
         {
             "drm_id": "first",
             "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
