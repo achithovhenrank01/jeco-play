@@ -993,6 +993,34 @@
                     "stream_url": "https://webhdrunns.mizhls.ru/lb/premium67/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
+                    "name": "SK 1",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
+                    "name": "SK 2",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium102/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
+                    "name": "SK 3",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://qqwebplay.xyz/%20",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
+                    "name": "SK 4",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium104/index.m3u8?",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
                 {
                     "drm_id": "dazn",
                     "referer": "",
